@@ -1,0 +1,11 @@
+#mapid { height: 720px; width: 100%}
+h1 {
+	font-family: Din;
+	font-weight: bold;
+	background-color: #000000;
+	color: #FFFFFF;
+	text-align: center;
+	margin: 0;
+	height: 3rem;
+	padding: 0.5rem;
+}
