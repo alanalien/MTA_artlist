@@ -55,12 +55,18 @@ the code run with python 3.7
 ## Visualization
 - JavaScript library Leaflet.js has been used to mapping the data ```final_addgeo2arts.json```
 - The map was provided by Mapbox.com
-- File 
+- Please run
+  ```
+  index.html
+  ```
+  with the support of ```style.css``` and ```mta_arts.js```
 
 ## Data Results
     ```
     final_addgeo2arts.json
     ```
+## Webpage Preview
+- Web page preview: https://htmlpreview.github.io/?https://github.com/alanalien/MTA_artlist/blob/master/index.html
 
 ## Acknowledgments
 
