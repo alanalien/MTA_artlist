@@ -66,7 +66,7 @@ the code run with python 3.7
     final_addgeo2arts.json
     ```
 ## Webpage Preview
-- Web page preview: https://htmlpreview.github.io/?https://github.com/alanalien/MTA_artlist/blob/master/index.html
+- View the deployed Web page: https://alanalien.github.io/MTA_artlist/
 
 ## Acknowledgments
 
