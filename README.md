@@ -23,34 +23,51 @@ the code run with python 3.7
     added further information to the former one, including the artwork's located station name, and its title
   
 - run ```parse_station.py```
-  this file parses the csv file```subway_station.csv'```
+  this file parses the csv file```subway_station.csv```
   and dumps it to a json file:
     ```
     station_geo_info.json
     ```
     which separates the latitude and longitude value, and removed unnecessary datas.
+    
+- i copied ```artistList_MTA_details.json``` to ```artistList_MTA_details_update.json``` in case of unexpected overwrite.
   
-- run ```add_location.py```
-    this file combines the following two json files:
+- run ```geo_info.py```
+  this file parses the file```subway_station.csv```and
+    1. trying to replace the unmatching strings of abbreviate addresses
+    2. combine the longitude and latitude to ```artistList_MTA_details_update.json```
+  and dumps
     ```
-    artistList_MTA_details.json
+    artist_geoinfo.json
     ```
+- Note that the file ```artist_geoinfo.json``` is not a clean data
+    there are many values that i can't change using Python, so I manually checked the data and added the file
     ```
-    station_geo_info.json
+    artist_geoinfo_manipulate.json
+    ```
+- run ```geo2arts.py```
+    this file removes the items in ```artist_geoinfo_manipulate.json``` without a geo info, and added a key in the format of (lont|lat) to each item. it dumps:
+    ```
+    final_addgeo2arts.json
     ```
 - then you got a dataset of MTA art collections with their geographic information.
-    
+
+## Visualization
+- JavaScript library Leaflet.js has been used to mapping the data ```final_addgeo2arts.json```
+- The map was provided by Mapbox.com
+- File 
 
 ## Data Results
     ```
-    MTA_Art_Collection.json
+    final_addgeo2arts.json
     ```
 
 ## Acknowledgments
 
 * MTA ART Data Source: http://web.mta.info/mta/aft/index/
 * Subway Station Geo-info Source: https://data.world/new-york-city/subway-stations
-* http://www.echartsjs.com/index.html
+* Mapping Tool: https://leafletjs.com/
+* Map Provider: https://www.mapbox.com/
 
 ## Authors
 
