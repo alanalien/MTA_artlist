@@ -1,0 +1,2609 @@
+[
+  {
+    "name": "Malin Abrahamsson",
+    "link": "http://web.mta.info/mta/aft/permanentart/permart.html?agency=lirr&line=babylonbranch&artist=1&station=2",
+    "type": "Percent for Art",
+    "station": "Valley Stream",
+    "title": "On the Trail of the Rising Sun, 2008"
+  },
+  {
+    "name": "Vito Acconci (Acconci Studio)",
+    "link": "http://web.mta.info/mta/aft/permanentart/permart.html?agency=nyct&line=D&artist=1&station=2",
+    "type": "Percent for Art",
+    "station": "161st Street-Yankee Stadium",
+    "title": "Wall-Slide, 2002",
+    "lont": -73.92565099751474,
+    "lat": 40.82790533241327
+  },
+  {
+    "name": "Vito Acconci (Acconci Studio)",
+    "link": "http://web.mta.info/mta/aft/permanentart/permart.html?agency=nyct&line=Q&artist=1&station=26",
+    "type": "Percent for Art",
+    "station": "West 8th Street-New York Aquarium",
+    "title": "Wavewall, 2005",
+    "lont": -73.97595787404076,
+    "lat": 40.57603415120005
+  },
+  {
+    "name": "Alice Adams",
+    "link": "http://web.mta.info/mta/aft/permanentart/permart.html?agency=lirr&line=ronkonkomabranch&artist=1&station=7",
+    "type": "Percent for Art",
+    "station": "Ronkonkoma",
+    "title": "Planting (dedicated to Long Island Tree Farmers), 1995"
+  },
+  {
+    "name": "Terry Adkins",
+    "link": "http://web.mta.info/mta/aft/permanentart/permart.html?agency=mnr&line=harlemline&artist=2&station=1",
+    "type": "Percent for Art",
+    "station": "Harlem - 125 Street",
+    "title": "Harlem Encore, 1999"
+  },
+  {
+    "name": "Candida Alvarez",
+    "link": "http://web.mta.info/mta/aft/permanentart/permart.html?agency=nyct&line=5&artist=1&station=10",
+    "type": "Percent for Art",
+    "station": "Bronx Park East",
+    "title": "B is for Birds in the Bronx, 2006",
+    "lont": -73.86835609123708,
+    "lat": 40.848768999811156
+  },
+  {
+    "name": "Lisa Amowitz",
+    "link": "http://web.mta.info/mta/aft/permanentart/permart.html?agency=nyct&line=5&artist=1&station=15",
+    "type": "Percent for Art",
+    "station": "Simpson Street",
+    "title": "Urban Renewal, 2008",
+    "lont": -73.89306639471833,
+    "lat": 40.82397717486102
+  },
+  {
+    "name": "Rhoda Andors",
+    "link": "http://web.mta.info/mta/aft/permanentart/permart.html?agency=nyct&line=Q&artist=1&station=20",
+    "type": "Percent for Art",
+    "station": "Kings Highway",
+    "title": "Kings Highway Hieroglyphs, 1987",
+    "lont": -73.95760873539083,
+    "lat": 40.608638978424565
+  },
+  {
+    "name": " Antenna Design New York",
+    "link": "http://web.mta.info/mta/aft/permanentart/permart.html?agency=nyct&line=2&artist=1&station=24",
+    "type": "Percent for Art",
+    "station": "96th Street",
+    "title": "Bloemendaal, 2010",
+    "lont": -73.97232299948297,
+    "lat": 40.79391933441861
+  },
+  {
+    "name": "Tomie Arai",
+    "link": "http://web.mta.info/mta/aft/permanentart/permart.html?agency=nyct&line=2&artist=1&station=9",
+    "type": "Percent for Art",
+    "station": "Pelham Parkway",
+    "title": "Back to the Garden, 2007",
+    "lont": -73.86748067761889,
+    "lat": 40.85719274250162
+  },
+  {
+    "name": "Tatiana Arocha",
+    "link": "http://web.mta.info/mta/aft/lightbox/lightbox.html?station=1",
+    "type": "Lightbox",
+    "station": "42nd Street-6th Avenue",
+    "title": "Wind Spirits"
+  },
+  {
+    "name": "Jaime Arredondo",
+    "link": "http://web.mta.info/mta/aft/permanentart/permart.html?agency=nyct&line=6&artist=1&station=4",
+    "type": "Percent for Art",
+    "station": "Zerega Avenue",
+    "title": "Garden of Earthly Delights, 2015",
+    "lont": -73.84703599804547,
+    "lat": 40.83648833366287
+  },
+  {
+    "name": "Andrea Arroyo",
+    "link": "http://web.mta.info/mta/aft/permanentart/permart.html?agency=nyct&line=5&artist=1&station=6",
+    "type": "Percent for Art",
+    "station": "Gun Hill Road",
+    "title": "My Sun (Mi Sol), My Planet (Mi Planeta) and My City (Mi Ciudad), 2006",
+    "lont": -73.84638400102972,
+    "lat": 40.86952633288799
+  },
+  {
+    "name": " Arts for Transit Collaborative",
+    "link": "http://web.mta.info/mta/aft/permanentart/permart.html?agency=nyct&line=C&artist=1&station=4",
+    "type": "Percent for Art",
+    "station": "81st Street-Museum of Natural History",
+    "title": "For Want of a Nail, 2000",
+    "lont": -73.97209794941429,
+    "lat": 40.78134641772443
+  },
+  {
+    "name": " Arts for Transit Collaborative",
+    "link": "http://web.mta.info/mta/aft/permanentart/permart.html?agency=nyct&line=3&artist=1&station=19",
+    "type": "Percent for Art",
+    "station": "Eastern Parkway-Brooklyn Museum",
+    "title": "New York City Architectural Artifacts from the Collection of the Brooklyn Museum, 2004",
+    "lont": -73.96422203701749,
+    "lat": 40.672032568925616
+  },
+  {
+    "name": " Atlantic Terra Cotta Company",
+    "link": "http://web.mta.info/mta/aft/permanentart/permart.html?agency=nyct&line=Q&artist=2&station=23",
+    "type": "Percent for Art",
+    "station": "Sheepshead Bay",
+    "title": "Postcards from Sheepshead Bay, 1998",
+    "lont": -73.95405791182218,
+    "lat": 40.58654788005143
+  },
+  {
+    "name": "Ellsworth Ausby",
+    "link": "http://web.mta.info/mta/aft/permanentart/permart.html?agency=nyct&line=J&artist=1&station=17",
+    "type": "Percent for Art",
+    "station": "Marcy Avenue",
+    "title": "Space Odyssey, 2004",
+    "lont": -73.95783199999856,
+    "lat": 40.7083833336101
+  },
+  {
+    "name": "Firelei Báez",
+    "link": "http://web.mta.info/mta/aft/permanentart/permart.html?agency=nyct&line=C&artist=1&station=1",
+    "type": "Percent for Art",
+    "station": "163 St-Amsterdam Ave",
+    "title": "Ciguapa Antellana, me llamo sueño de la madrugada. (who more sci-fi than us), 2018",
+    "lont": -73.93989200159317,
+    "lat": 40.836013332605724
+  },
+  {
+    "name": "Nancy Baker",
+    "link": "http://web.mta.info/mta/aft/permanentart/permart.html?agency=nyct&line=3&artist=1&station=22",
+    "type": "Percent for Art",
+    "station": "Sutter Avenue-Rutland Rd",
+    "title": "Ailthanus and Chandelier, 2017",
+    "lont": -73.92252118506703,
+    "lat": 40.664767122207614
+  },
+  {
+    "name": "Xenobia Bailey",
+    "link": "http://web.mta.info/mta/aft/permanentart/permart.html?agency=nyct&line=7&artist=1&station=13",
+    "type": "Percent for Art",
+    "station": "34th St–Hudson Yards",
+    "title": "Funktional Vibrations, 2015"
+  },
+  {
+    "name": "Ron Baron",
+    "link": "http://web.mta.info/mta/aft/permanentart/permart.html?agency=lirr&line=hempsteadbranch&artist=1&station=3",
+    "type": "Percent for Art",
+    "station": "Hempstead",
+    "title": "Lost and Found: An Excavation Project, 2005"
+  },
+  {
+    "name": "George Bates",
+    "link": "http://web.mta.info/mta/aft/permanentart/permart.html?agency=nyct&line=M&artist=1&station=16",
+    "type": "Percent for Art",
+    "station": "Myrtle Avenue",
+    "title": "Jammin' Under the EL, 1999",
+    "lont": -73.93562300040674,
+    "lat": 40.69719533361235
+  },
+  {
+    "name": "George Bates",
+    "link": "http://web.mta.info/mta/aft/permanentart/permart.html?agency=nyct&line=A&artist=1&station=22",
+    "type": "Percent for Art",
+    "station": "Beach 36 Street",
+    "title": "Symphonic Convergence 1&2, 2011",
+    "lont": -73.76817499792809,
+    "lat": 40.59539833456184
+  },
+  {
+    "name": "Jackie Battenfield",
+    "link": "http://web.mta.info/mta/aft/permanentart/permart.html?agency=nyct&line=F&artist=1&station=15",
+    "type": "Percent for Art",
+    "station": "Avenue P",
+    "title": "Tree Canopy, 2018",
+    "lont": -73.97300281528905,
+    "lat": 40.60884314257858
+  },
+  {
+    "name": "Laura Battle",
+    "link": "http://web.mta.info/mta/aft/permanentart/permart.html?agency=nyct&line=4&artist=1&station=7",
+    "type": "Percent for Art",
+    "station": "Burnside Avenue",
+    "title": "How to get to the moon..., 2008",
+    "lont": -73.90768400066499,
+    "lat": 40.853453334428735
+  },
+  {
+    "name": "Jack Beal",
+    "link": "http://web.mta.info/mta/aft/permanentart/permart.html?agency=nyct&line=P&artist=2&station=2",
+    "type": "Percent for Art",
+    "station": "Times Square-42nd Street",
+    "title": "The Return of Spring/The Onset of Winter, 2001/2005"
+  },
+  {
+    "name": "Romare Bearden",
+    "link": "http://web.mta.info/mta/aft/permanentart/permart.html?agency=nyct&line=6&artist=1&station=3",
+    "type": "Percent for Art",
+    "station": "Westchester Square-East Tremont Avenue",
+    "title": "City of Glass, 1993 (Proposal created by artist, 1982)",
+    "lont": -73.84295199835405,
+    "lat": 40.839892334397746
+  },
+  {
+    "name": "Andrea Belag",
+    "link": "http://web.mta.info/mta/aft/permanentart/permart.html?agency=nyct&line=F&artist=1&station=17",
+    "type": "Percent for Art",
+    "station": "Avenue U",
+    "title": "Brooklyn Transitions, 2017",
+    "lont": -73.97337641904097,
+    "lat": 40.595925159151875
+  },
+  {
+    "name": "Amy Bennett",
+    "link": "http://web.mta.info/mta/aft/permanentart/permart.html?agency=nyct&line=R&artist=1&station=27",
+    "type": "Percent for Art",
+    "station": "86th Street",
+    "title": "Heydays, 2011",
+    "lont": -74.0283980002836,
+    "lat": 40.62268700032295
+  },
+  {
+    "name": "Amir Bey",
+    "link": "http://web.mta.info/mta/aft/permanentart/permart.html?agency=nyct&line=4&artist=1&station=9",
+    "type": "Percent for Art",
+    "station": "Mount Eden",
+    "title": "The Procession of Folk #3,, 2006",
+    "lont": -73.91468499864928,
+    "lat": 40.844434333833284
+  },
+  {
+    "name": "Willie Birch",
+    "link": "http://web.mta.info/mta/aft/permanentart/permart.html?agency=nyct&line=3&artist=1&station=2",
+    "type": "Percent for Art",
+    "station": "135th Street",
+    "title": "Harlem Timeline, 1995",
+    "lont": -73.94077000029493,
+    "lat": 40.81422933347776
+  },
+  {
+    "name": "Robert Blackburn",
+    "link": "http://web.mta.info/mta/aft/permanentart/permart.html?agency=nyct&line=6&artist=1&station=12",
+    "type": "Percent for Art",
+    "station": "116th Street",
+    "title": "In Everything There Is A Season, 2005",
+    "lont": -73.9416169982848,
+    "lat": 40.79862933384588
+  },
+  {
+    "name": "Marjorie Blackwell",
+    "link": "http://web.mta.info/mta/aft/permanentart/permart.html?agency=mnr&line=newhavenline&artist=1&station=1",
+    "type": "Percent for Art",
+    "station": "Mount Vernon East",
+    "title": "Tranquility, 2001"
+  },
+  {
+    "name": "Nancy Blum",
+    "link": "http://web.mta.info/mta/aft/permanentart/permart.html?agency=mnr&line=hudsonline&artist=1&station=4",
+    "type": "Percent for Art",
+    "station": "Dobbs Ferry",
+    "title": "Floating Auriculas, 2007"
+  },
+  {
+    "name": "Laura Bradley",
+    "link": "http://web.mta.info/mta/aft/permanentart/permart.html?agency=nyct&line=6&artist=1&station=15",
+    "type": "Percent for Art",
+    "station": "96th Street",
+    "title": "City Suite, 1994",
+    "lont": -73.95107000070685,
+    "lat": 40.785672333485294
+  },
+  {
+    "name": "Bill Brand",
+    "link": "http://web.mta.info/mta/aft/permanentart/permart.html?agency=nyct&line=Q&artist=2&station=11",
+    "type": "Percent for Art",
+    "station": "DeKalb Avenue",
+    "title": "Masstransiscope, 1980 (Restored 2008)",
+    "lont": -73.98182400036215,
+    "lat": 40.69063500033928
+  },
+  {
+    "name": "Helene Brandt",
+    "link": "http://web.mta.info/mta/aft/permanentart/permart.html?agency=nyct&line=D&artist=2&station=2",
+    "type": "Percent for Art",
+    "station": "161st Street-Yankee Stadium",
+    "title": "Room of Tranquility, 2002",
+    "lont": -73.92565099751474,
+    "lat": 40.82790533241327
+  },
+  {
+    "name": "Monika Bravo",
+    "link": "http://web.mta.info/mta/aft/permanentart/permart.html?agency=nyct&line=R&artist=1&station=23",
+    "type": "Percent for Art",
+    "station": "Prospect Avenue",
+    "title": "Duration, 2017",
+    "lont": -73.99287200058961,
+    "lat": 40.665414000093335
+  },
+  {
+    "name": "Rolando Briseño",
+    "link": "http://web.mta.info/mta/aft/permanentart/permart.html?agency=mnr&line=harlemline&artist=1&station=10",
+    "type": "Percent for Art",
+    "station": "North White Plains",
+    "title": "At the Table, 1991"
+  },
+  {
+    "name": "Michele Brody",
+    "link": "http://web.mta.info/mta/aft/permanentart/permart.html?agency=nyct&line=5&artist=1&station=8",
+    "type": "Percent for Art",
+    "station": "Allerton Avenue",
+    "title": "Allerton Mandalas, 2006",
+    "lont": -73.86723422776349,
+    "lat": 40.86548371157605
+  },
+  {
+    "name": "Moe Brooker",
+    "link": "http://web.mta.info/mta/aft/permanentart/permart.html?agency=lirr&line=ronkonkomabranch&artist=2&station=1",
+    "type": "Percent for Art",
+    "station": "Atlantic Terminal",
+    "title": "Overlook, 2009"
+  },
+  {
+    "name": "Charlotte Brown",
+    "link": "http://web.mta.info/mta/aft/lightbox/lightbox.html?station=3",
+    "type": "Lightbox",
+    "station": "Grand Central Terminal Dining Concourse East",
+    "title": "Four Photographs of Rays of Sunlight in Grand Central"
+  },
+  {
+    "name": "Deborah Brown",
+    "link": "http://web.mta.info/mta/aft/permanentart/permart.html?agency=nyct&line=1&artist=1&station=16",
+    "type": "Percent for Art",
+    "station": "Houston Street",
+    "title": "Platform Diving, 1994",
+    "lont": -74.00536700184291,
+    "lat": 40.72825133360782
+  },
+  {
+    "name": "Lee Brozgol",
+    "link": "http://web.mta.info/mta/aft/permanentart/permart.html?agency=nyct&line=1&artist=1&station=15",
+    "type": "Percent for Art",
+    "station": "Christopher Street-Sheridan Square",
+    "title": "The Greenwich Village Murals, 1994",
+    "lont": -74.002905998897,
+    "lat": 40.73342233397504
+  },
+  {
+    "name": "Brit Bunkley",
+    "link": "http://web.mta.info/mta/aft/permanentart/permart.html?agency=lirr&line=montaukbranch&artist=1&station=2",
+    "type": "Percent for Art",
+    "station": "Bay Shore",
+    "title": "Bay Shore Icons, 1992"
+  },
+  {
+    "name": "Toby Buonagurio",
+    "link": "http://web.mta.info/mta/aft/permanentart/permart.html?agency=nyct&line=P&artist=3&station=2",
+    "type": "Percent for Art",
+    "station": "Times Square-42nd Street",
+    "title": "Times Square Times: 35 Times, 2005"
+  },
+  {
+    "name": "Millie Burns",
+    "link": "http://web.mta.info/mta/aft/permanentart/permart.html?agency=nyct&line=S&artist=1&station=3",
+    "type": "Percent for Art",
+    "station": "Botantic Garden /Franklin Avenue",
+    "title": "IL7/Square, 1999",
+    "lont": -73.95582700108798,
+    "lat": 40.68059599942808
+  },
+  {
+    "name": "Dina Bursztyn",
+    "link": "http://web.mta.info/mta/aft/permanentart/permart.html?agency=nyct&line=4&artist=1&station=10",
+    "type": "Percent for Art",
+    "station": "170th Street",
+    "title": "Views from Above, 2006",
+    "lont": -73.91779099709355,
+    "lat": 40.84007533283499
+  },
+  {
+    "name": "Ron Calloway",
+    "link": "http://web.mta.info/mta/aft/permanentart/permart.html?agency=nyct&line=J&artist=1&station=12",
+    "type": "Percent for Art",
+    "station": "Kosciuszko Street",
+    "title": "Euphorbias, 2002",
+    "lont": -73.92850899856917,
+    "lat": 40.69317233423697
+  },
+  {
+    "name": "Luisa Caldwell",
+    "link": "http://web.mta.info/mta/aft/permanentart/permart.html?agency=nyct&line=5&artist=1&station=11",
+    "type": "Percent for Art",
+    "station": "East 180th Street",
+    "title": "Station Villa, 2011",
+    "lont": -73.87334609435007,
+    "lat": 40.84186337449904
+  },
+  {
+    "name": "Naomi Campbell",
+    "link": "http://web.mta.info/mta/aft/permanentart/permart.html?agency=nyct&line=5&artist=1&station=12",
+    "type": "Percent for Art",
+    "station": "West Farms Square-East Tremont Avenue",
+    "title": "Animal Tracks, 2004",
+    "lont": -73.87996127809559,
+    "lat": 40.84020796544077
+  },
+  {
+    "name": "James Carpenter, Grimshaw Architects, ARUP",
+    "link": "http://web.mta.info/mta/aft/permanentart/permart.html?agency=nyct&line=4&artist=1&station=19",
+    "type": "Percent for Art",
+    "station": "Fulton Center",
+    "title": "Sky Reflector-Net, 2014"
+  },
+  {
+    "name": "Sydney Cash",
+    "link": "http://web.mta.info/mta/aft/permanentart/permart.html?agency=nyct&line=N&artist=1&station=3",
+    "type": "Percent for Art",
+    "station": "Queensboro Plaza",
+    "title": "Columns, 2000",
+    "lont": -73.94016353439743,
+    "lat": 40.75063598438094
+  },
+  {
+    "name": "Muriel Castanis",
+    "link": "http://web.mta.info/mta/aft/permanentart/permart.html?agency=nyct&line=5&artist=1&station=33",
+    "type": "Percent for Art",
+    "station": "Brooklyn College-Flatbush Avenue",
+    "title": "Flatbush Floogies, 1996",
+    "lont": -73.94754120719483,
+    "lat": 40.63284274046751
+  },
+  {
+    "name": "Joseph Cavalieri",
+    "link": "http://web.mta.info/mta/aft/permanentart/permart.html?agency=mnr&line=hudsonline&artist=1&station=6",
+    "type": "Percent for Art",
+    "station": "Philipse Manor",
+    "title": "North, South and Home, 2009"
+  },
+  {
+    "name": "John Cavanagh",
+    "link": "http://web.mta.info/mta/aft/permanentart/permart.html?agency=nyct&line=7&artist=1&station=3",
+    "type": "Percent for Art",
+    "station": "Woodside-61st Street",
+    "title": "Commuting/Community, 1986",
+    "lont": -73.90298400085238,
+    "lat": 40.74563033401391
+  },
+  {
+    "name": "Alfredo Ceibal",
+    "link": "http://web.mta.info/mta/aft/permanentart/permart.html?agency=nyct&line=2&artist=1&station=1",
+    "type": "Percent for Art",
+    "station": "Wakefield-241 Street",
+    "title": "Permanent Residents and Visitors, 2010",
+    "lont": -73.85061999835273,
+    "lat": 40.90312533408352
+  },
+  {
+    "name": "Jackie Chang",
+    "link": "http://web.mta.info/mta/aft/permanentart/permart.html?agency=nyct&line=L&artist=1&station=7",
+    "type": "Percent for Art",
+    "station": "Metropolitan Avenue/Lorimer Street",
+    "title": "Signs of Life, 2000",
+    "lont": -73.95024800019331,
+    "lat": 40.7140723341722
+  },
+  {
+    "name": "Amy Cheng",
+    "link": "http://web.mta.info/mta/aft/permanentart/permart.html?agency=nyct&line=D&artist=1&station=17",
+    "type": "Percent for Art",
+    "station": "25th Avenue",
+    "title": "Rediscovery, 2012",
+    "lont": -73.9868290001644,
+    "lat": 40.59770400016762
+  },
+  {
+    "name": "Amy Cheng",
+    "link": "http://web.mta.info/mta/aft/permanentart/permart.html?agency=nyct&line=J&artist=1&station=5",
+    "type": "Percent for Art",
+    "station": "Cleveland Street",
+    "title": "Las Flores, 2007",
+    "lont": -73.8851940012429,
+    "lat": 40.679778332299975
+  },
+  {
+    "name": "Mel Chin",
+    "link": "http://web.mta.info/mta/aft/permanentart/permart.html?agency=nyct&line=F&artist=1&station=6",
+    "type": "Percent for Art",
+    "station": "Broadway-Lafayette Street/Bleecker Street",
+    "title": "Signal, 1997",
+    "lont": -73.99620399840286,
+    "lat": 40.725297332299235
+  },
+  {
+    "name": "Chuck Close",
+    "link": "http://web.mta.info/mta/aft/permanentart/permart.html?agency=nyct&line=Q&artist=1&station=2",
+    "type": "Percent for Art",
+    "station": "Second Avenue–86th Street",
+    "title": "Subway Portraits, 2017"
+  },
+  {
+    "name": "Raúl Colón",
+    "link": "http://web.mta.info/mta/aft/permanentart/permart.html?agency=nyct&line=1&artist=1&station=3",
+    "type": "Percent for Art",
+    "station": "191st Street",
+    "title": "Primavera, 2003",
+    "lont": -73.9294119976112,
+    "lat": 40.855225335009216
+  },
+  {
+    "name": "Hugo Consuegra",
+    "link": "http://web.mta.info/mta/aft/permanentart/permart.html?agency=nyct&line=4&artist=1&station=25",
+    "type": "Percent for Art",
+    "station": "Crown Heights-Utica Avenue",
+    "title": "Good Morning and Good Night, 2004",
+    "lont": -73.93293256066349,
+    "lat": 40.66897864436661
+  },
+  {
+    "name": "Houston Conwill",
+    "link": "http://web.mta.info/mta/aft/permanentart/permart.html?agency=nyct&line=6&artist=1&station=11",
+    "type": "Percent for Art",
+    "station": "125th Street",
+    "title": "The Open Secret, 1986",
+    "lont": -73.93759400019064,
+    "lat": 40.804138334029325
+  },
+  {
+    "name": "Noel Copeland",
+    "link": "http://web.mta.info/mta/aft/permanentart/permart.html?agency=nyct&line=2&artist=1&station=2",
+    "type": "Percent for Art",
+    "station": "Nereid Avenue 238th Street",
+    "title": "Leaf of Life, 2006"
+  },
+  {
+    "name": "Béatrice Coron",
+    "link": "http://web.mta.info/mta/aft/permanentart/permart.html?agency=nyct&line=A&artist=1&station=18",
+    "type": "Percent for Art",
+    "station": "104th Street",
+    "title": "On the Right Track, 2015",
+    "lont": -73.8376829999374,
+    "lat": 40.681711334202696
+  },
+  {
+    "name": "Béatrice Coron",
+    "link": "http://web.mta.info/mta/aft/permanentart/permart.html?agency=nyct&line=5&artist=1&station=7",
+    "type": "Percent for Art",
+    "station": "Burke Avenue",
+    "title": "Bronx Literature, 2006",
+    "lont": -73.86705361677089,
+    "lat": 40.87125913561442
+  },
+  {
+    "name": "George Crespo",
+    "link": "http://web.mta.info/mta/aft/permanentart/permart.html?agency=nyct&line=5&artist=1&station=18",
+    "type": "Percent for Art",
+    "station": "Jackson Avenue",
+    "title": "Latin American Stories, 2009",
+    "lont": -73.90770193853471,
+    "lat": 40.816437799808796
+  },
+  {
+    "name": "Kim Cridler",
+    "link": "http://web.mta.info/mta/aft/permanentart/permart.html?agency=mnr&line=newhavenline&artist=1&station=4",
+    "type": "Percent for Art",
+    "station": "Mamaroneck",
+    "title": "Where the Sweet Waters Fall, 2014"
+  },
+  {
+    "name": "Maria Cristalli and Marc Brown",
+    "link": "http://web.mta.info/mta/aft/permanentart/permart.html?agency=nyct&line=6&artist=1&station=8",
+    "type": "Percent for Art",
+    "station": "Morrison Avenue-Soundview",
+    "title": "The Land Between Two Waters, 2010",
+    "lont": -73.87451599884423,
+    "lat": 40.829521335098256
+  },
+  {
+    "name": "Joseph D'Alesandro",
+    "link": "http://web.mta.info/mta/aft/permanentart/permart.html?agency=nyct&line=2&artist=1&station=5",
+    "type": "Percent for Art",
+    "station": "219th Street",
+    "title": "Homage, 2006",
+    "lont": -73.8625097074803,
+    "lat": 40.88388830753444
+  },
+  {
+    "name": "Annette Davidek",
+    "link": "http://web.mta.info/mta/aft/permanentart/permart.html?agency=nyct&line=J&artist=1&station=15",
+    "type": "Percent for Art",
+    "station": "Lorimer Street",
+    "title": "Roundlet Series, 2002",
+    "lont": -73.94735499813589,
+    "lat": 40.70384433379361
+  },
+  {
+    "name": "Sheila Levrant de Bretteville",
+    "link": "http://web.mta.info/mta/aft/permanentart/permart.html?agency=nyct&line=A&artist=1&station=1",
+    "type": "Percent for Art",
+    "station": "Inwood-207th Street",
+    "title": "At the Start... At Long Last, 1999",
+    "lont": -73.91989900076265,
+    "lat": 40.8680723332653
+  },
+  {
+    "name": "Priscila De Carvalho",
+    "link": "http://web.mta.info/mta/aft/permanentart/permart.html?agency=nyct&line=6&artist=1&station=5",
+    "type": "Percent for Art",
+    "station": "Castle Hill Avenue",
+    "title": "Bronx: Heart, Homeland, 2015",
+    "lont": -73.85122199920897,
+    "lat": 40.83425533183211
+  },
+  {
+    "name": "Daniel Del Valle",
+    "link": "http://web.mta.info/mta/aft/permanentart/permart.html?agency=nyct&line=5&artist=1&station=13",
+    "type": "Percent for Art",
+    "station": "174th Street",
+    "title": "A Trip Up the Bronx River, 2004",
+    "lont": -73.88769359751684,
+    "lat": 40.837195883313186
+  },
+  {
+    "name": "Louis Delsarte",
+    "link": "http://web.mta.info/mta/aft/permanentart/permart.html?agency=nyct&line=5&artist=1&station=32",
+    "type": "Percent for Art",
+    "station": "Church Avenue",
+    "title": "Transitions, 2001",
+    "lont": -73.94945514032199,
+    "lat": 40.65086102070915
+  },
+  {
+    "name": "Andrea Dezsö",
+    "link": "http://web.mta.info/mta/aft/permanentart/permart.html?agency=nyct&line=D&artist=1&station=11",
+    "type": "Percent for Art",
+    "station": "62nd Street",
+    "title": "Nature Rail, 2012",
+    "lont": -73.99685725051668,
+    "lat": 40.626224796104694
+  },
+  {
+    "name": "Andrea Dezsö",
+    "link": "http://web.mta.info/mta/aft/permanentart/permart.html?agency=nyct&line=4&artist=1&station=3",
+    "type": "Percent for Art",
+    "station": "Bedford Park Boulevard-Lehman College",
+    "title": "Community Garden, 2006",
+    "lont": -73.89006400056154,
+    "lat": 40.8734123326929
+  },
+  {
+    "name": "Jane Dickson",
+    "link": "http://web.mta.info/mta/aft/permanentart/permart.html?agency=nyct&line=P&artist=5&station=2",
+    "type": "Percent for Art",
+    "station": "Times Square-42nd Street",
+    "title": "Revelers, 2008"
+  },
+  {
+    "name": "Lisa Dinhofer",
+    "link": "http://web.mta.info/mta/aft/permanentart/permart.html?agency=nyct&line=E&artist=1&station=9",
+    "type": "Percent for Art",
+    "station": "42nd Street-Port Authority Bus Terminal",
+    "title": "Losing my Marbles, 2003",
+    "lont": -73.98973500043815,
+    "lat": 40.75730833180808
+  },
+  {
+    "name": "Maria Dominguez",
+    "link": "http://web.mta.info/mta/aft/permanentart/permart.html?agency=nyct&line=J&artist=1&station=9",
+    "type": "Percent for Art",
+    "station": "Chauncey Street",
+    "title": "El Views, 2002",
+    "lont": -73.91038356930946,
+    "lat": 40.682851634494526
+  },
+  {
+    "name": "Michele Oka Doner",
+    "link": "http://web.mta.info/mta/aft/permanentart/permart.html?agency=nyct&line=R&artist=1&station=9",
+    "type": "Percent for Art",
+    "station": "34th Street-Herald Square",
+    "title": "Radiant Site, 1991",
+    "lont": -73.98793683324304,
+    "lat": 40.749644893078916
+  },
+  {
+    "name": "Drenttel Doyle and Partners",
+    "link": "http://web.mta.info/mta/aft/permanentart/permart.html?agency=nyct&line=E&artist=1&station=7",
+    "type": "Percent for Art",
+    "station": "Fifth Avenue-53rd Street",
+    "title": "53rd Street Art Stop, 2000",
+    "lont": -73.9752485046603,
+    "lat": 40.76008716596106
+  },
+  {
+    "name": "Peter Drake",
+    "link": "http://web.mta.info/mta/aft/permanentart/permart.html?agency=lirr&line=babylonbranch&artist=1&station=6",
+    "type": "Percent for Art",
+    "station": "Massapequa",
+    "title": "Waiting for Toydot, 2015"
+  },
+  {
+    "name": "Ellen Driscoll",
+    "link": "http://web.mta.info/mta/aft/permanentart/permart.html?agency=mnr&line=grandcentralterminal&artist=1&station=1",
+    "type": "Percent for Art",
+    "station": "Grand Central Terminal",
+    "title": "As Above, So Below, 1998"
+  },
+  {
+    "name": "Loren Eiferman",
+    "link": "http://web.mta.info/mta/aft/permanentart/permart.html?agency=mnr&line=newhavenline&artist=1&station=2",
+    "type": "Percent for Art",
+    "station": "Pelham",
+    "title": "HOME: INSIDE/OUTSIDE, 2014"
+  },
+  {
+    "name": "Barbara Ellmann",
+    "link": "http://web.mta.info/mta/aft/permanentart/permart.html?agency=nyct&line=J&artist=1&station=6",
+    "type": "Percent for Art",
+    "station": "Van Siclen Avenue",
+    "title": "THE VIEW FROM HERE, 2007",
+    "lont": -73.89165772599068,
+    "lat": 40.67802854813373
+  },
+  {
+    "name": "Nicky Enright",
+    "link": "http://web.mta.info/mta/aft/permanentart/permart.html?agency=nyct&line=2&artist=1&station=4",
+    "type": "Percent for Art",
+    "station": "225th Street",
+    "title": "Universal City, 2006",
+    "lont": -73.86021461686795,
+    "lat": 40.88802859157574
+  },
+  {
+    "name": " Everet",
+    "link": "http://web.mta.info/mta/aft/permanentart/permart.html?agency=sir&line=1&artist=1&station=2",
+    "type": "Percent for Art",
+    "station": "Richmond Valley",
+    "title": "A Portrayal of Life at Mill Creek, 2018"
+  },
+  {
+    "name": "Ralph Fasanella",
+    "link": "http://web.mta.info/mta/aft/permanentart/permart.html?agency=nyct&line=E&artist=2&station=7",
+    "type": "Percent for Art",
+    "station": "Fifth Avenue-53rd Street",
+    "title": "Subway Riders, 1950/1995",
+    "lont": -73.9752485046603,
+    "lat": 40.76008716596106
+  },
+  {
+    "name": "Ingo Fast",
+    "link": "http://web.mta.info/mta/aft/permanentart/permart.html?agency=nyct&line=A&artist=1&station=25",
+    "type": "Percent for Art",
+    "station": "Beach 67 Street",
+    "title": "On and Off the Boardwalk, 2011",
+    "lont": -73.79692399899525,
+    "lat": 40.590927334290434
+  },
+  {
+    "name": "Ming Fay",
+    "link": "http://web.mta.info/mta/aft/permanentart/permart.html?agency=nyct&line=J&artist=1&station=18",
+    "type": "Percent for Art",
+    "station": "Delancey Street-Essex Street",
+    "title": "Shad Crossing, Delancey Orchard, 2004",
+    "lont": -73.98740940233358,
+    "lat": 40.718306389085505
+  },
+  {
+    "name": "Jackie Ferrara",
+    "link": "http://web.mta.info/mta/aft/permanentart/permart.html?agency=nyct&line=P&artist=1&station=1",
+    "type": "Percent for Art",
+    "station": "Grand Central-42nd Street",
+    "title": "Grand Central: Arches, Towers, Pyramids, 2000"
+  },
+  {
+    "name": "Katy Fischer",
+    "link": "http://web.mta.info/mta/aft/permanentart/permart.html?agency=nyct&line=R&artist=1&station=26",
+    "type": "Percent for Art",
+    "station": "Bay Ridge Avenue",
+    "title": "Strata, 2017",
+    "lont": -74.0233769992409,
+    "lat": 40.63496700028034
+  },
+  {
+    "name": "Eric Fischl",
+    "link": "http://web.mta.info/mta/aft/permanentart/permart.html?agency=nyct&line=E&artist=1&station=12",
+    "type": "Percent for Art",
+    "station": "34th Street-Penn Station",
+    "title": "The Garden of Circus Delights, 2001",
+    "lont": -73.99339099930413,
+    "lat": 40.752287334131175
+  },
+  {
+    "name": "Derek Fordjour",
+    "link": "http://web.mta.info/mta/aft/permanentart/permart.html?agency=nyct&line=3&artist=1&station=1",
+    "type": "Percent for Art",
+    "station": "145th Street",
+    "title": "PARADE, 2018",
+    "lont": -73.93624499890744,
+    "lat": 40.82042133297881
+  },
+  {
+    "name": "Carson Fox",
+    "link": "http://web.mta.info/mta/aft/permanentart/permart.html?agency=lirr&line=babylonbranch&artist=1&station=5",
+    "type": "Percent for Art",
+    "station": "Seaford",
+    "title": "Blue Sky Pursuit, 2009"
+  },
+  {
+    "name": "Dan Funderburgh",
+    "link": "http://web.mta.info/mta/aft/permanentart/permart.html?agency=lirr&line=babylonbranch&artist=2&station=4",
+    "type": "Percent for Art",
+    "station": "Bellmore",
+    "title": "SHOAL, 2018"
+  },
+  {
+    "name": "Dan Funderburgh",
+    "link": "http://web.mta.info/mta/aft/permanentart/permart.html?agency=mnr&line=harlemline&artist=1&station=2",
+    "type": "Percent for Art",
+    "station": "Fordham",
+    "title": "Eureka, 2016"
+  },
+  {
+    "name": "Felipe  Galindo",
+    "link": "http://web.mta.info/mta/aft/permanentart/permart.html?agency=nyct&line=1&artist=1&station=1",
+    "type": "Percent for Art",
+    "station": "231st Street",
+    "title": "Magic Realism in Kingsbridge, 2008",
+    "lont": -73.90483400042638,
+    "lat": 40.87885633187432
+  },
+  {
+    "name": "Linda Ganjian",
+    "link": "http://web.mta.info/mta/aft/permanentart/permart.html?agency=nyct&line=A&artist=1&station=19",
+    "type": "Percent for Art",
+    "station": "111th Street",
+    "title": "Home Sweet Home, 2016",
+    "lont": -73.83216299793189,
+    "lat": 40.68433133342542
+  },
+  {
+    "name": "Julien Gardair",
+    "link": "http://web.mta.info/mta/aft/permanentart/permart.html?agency=nyct&line=F&artist=1&station=11",
+    "type": "Percent for Art",
+    "station": "18th Avenue",
+    "title": "We are each others, 2018",
+    "lont": -73.97697099987755,
+    "lat": 40.62975500011662
+  },
+  {
+    "name": "James Garvey",
+    "link": "http://web.mta.info/mta/aft/permanentart/permart.html?agency=nyct&line=4&artist=1&station=21",
+    "type": "Percent for Art",
+    "station": "Wall Street",
+    "title": "Lariat Tapers, 2011",
+    "lont": -74.01186199920538,
+    "lat": 40.707557334362484
+  },
+  {
+    "name": "James Garvey",
+    "link": "http://web.mta.info/mta/aft/permanentart/permart.html?agency=nyct&line=6&artist=1&station=22",
+    "type": "Percent for Art",
+    "station": "33rd Street",
+    "title": "Lariat Seat Loops, 1997",
+    "lont": -73.98207600124924,
+    "lat": 40.7460813321576
+  },
+  {
+    "name": "Dan George",
+    "link": "http://web.mta.info/mta/aft/permanentart/permart.html?agency=nyct&line=Q&artist=1&station=24",
+    "type": "Percent for Art",
+    "station": "Brighton Beach",
+    "title": "Mermade/Dionysus and the Pirates, 1999",
+    "lont": -73.96135378572068,
+    "lat": 40.57771052976751
+  },
+  {
+    "name": "Dimitri Gerakaris",
+    "link": "http://web.mta.info/mta/aft/permanentart/permart.html?agency=nyct&line=7&artist=2&station=3",
+    "type": "Percent for Art",
+    "station": "Woodside-61st Street",
+    "title": "Woodside Continuum, 1999",
+    "lont": -73.90298400085238,
+    "lat": 40.74563033401391
+  },
+  {
+    "name": "Laura F. Gibellini",
+    "link": "http://web.mta.info/mta/aft/permanentart/permart.html?agency=nyct&line=M&artist=1&station=19",
+    "type": "Percent for Art",
+    "station": "Myrtle-Wyckoff Avenues",
+    "title": "From Earth to Sky, 2006",
+    "lont": -73.91217899875637,
+    "lat": 40.699454334648586
+  },
+  {
+    "name": "Laura F. Gibellini",
+    "link": "http://web.mta.info/mta/aft/permanentart/permart.html?agency=nyct&line=M&artist=1&station=20",
+    "type": "Percent for Art",
+    "station": "Seneca Avenue",
+    "title": "Dom (Variations), 2013",
+    "lont": -73.9075819984298,
+    "lat": 40.70291933262727
+  },
+  {
+    "name": "Laura F. Gibellini",
+    "link": "http://web.mta.info/mta/aft/permanentart/permart.html?agency=nyct&line=M&artist=1&station=21",
+    "type": "Percent for Art",
+    "station": "Forest Avenue",
+    "title": "Dom (Variations), 2013",
+    "lont": -73.90307499994645,
+    "lat": 40.70441233402832
+  },
+  {
+    "name": "Mark Gibian",
+    "link": "http://web.mta.info/mta/aft/permanentart/permart.html?agency=nyct&line=J&artist=1&station=20",
+    "type": "Percent for Art",
+    "station": "Brooklyn Bridge-City Hall/Chamber Street",
+    "title": "Cable Crossing, 1996"
+  },
+  {
+    "name": "Cadence Giersbach",
+    "link": "http://web.mta.info/mta/aft/permanentart/permart.html?agency=nyct&line=L&artist=1&station=6",
+    "type": "Percent for Art",
+    "station": "Myrtle-Wyckoff Avenues",
+    "title": "From Earth to Sky, 2006"
+  },
+  {
+    "name": "Sally Gil",
+    "link": "http://web.mta.info/mta/aft/permanentart/permart.html?agency=nyct&line=N&artist=1&station=21",
+    "type": "Percent for Art",
+    "station": "Avenue U",
+    "title": "Edges of a South Brooklyn Sky, 2018",
+    "lont": -73.97908400087046,
+    "lat": 40.59723633364408
+  },
+  {
+    "name": "Sam Gilliam",
+    "link": "http://web.mta.info/mta/aft/permanentart/permart.html?agency=nyct&line=J&artist=1&station=1",
+    "type": "Percent for Art",
+    "station": "Jamaica Center-Parsons-Archer",
+    "title": "Jamaica Center Station Riders, Blue, 1991"
+  },
+  {
+    "name": "Andrew Ginzel & Kristin Jones",
+    "link": "http://web.mta.info/mta/aft/permanentart/permart.html?agency=nyct&line=A&artist=1&station=9",
+    "type": "Percent for Art",
+    "station": "Chambers Street/Park Place",
+    "title": "Oculus, 1998",
+    "lont": -74.0085847360681,
+    "lat": 40.714111334148996
+  },
+  {
+    "name": "Frank Giorgini",
+    "link": "http://web.mta.info/mta/aft/permanentart/permart.html?agency=nyct&line=R&artist=1&station=18",
+    "type": "Percent for Art",
+    "station": "Whitehall Street",
+    "title": "Passages, 2000",
+    "lont": -74.01300723736433,
+    "lat": 40.70314270735986
+  },
+  {
+    "name": "Milton Glaser",
+    "link": "http://web.mta.info/mta/aft/permanentart/permart.html?agency=nyct&line=6&artist=1&station=25",
+    "type": "Percent for Art",
+    "station": "Astor Place",
+    "title": "Untitled, 1986",
+    "lont": -73.99106999895504,
+    "lat": 40.73005433376933
+  },
+  {
+    "name": "Keith Godard",
+    "link": "http://web.mta.info/mta/aft/permanentart/permart.html?agency=nyct&line=R&artist=1&station=11",
+    "type": "Percent for Art",
+    "station": "23rd Street",
+    "title": "Memories of Twenty-Third Street, 2002",
+    "lont": -73.98934400045437,
+    "lat": 40.74130300016866
+  },
+  {
+    "name": "DeBorah Goletz",
+    "link": "http://web.mta.info/mta/aft/permanentart/permart.html?agency=nyct&line=Q&artist=1&station=23",
+    "type": "Percent for Art",
+    "station": "Sheepshead Bay",
+    "title": "Postcards from Sheepshead Bay, 1998",
+    "lont": -73.95405791182218,
+    "lat": 40.58654788005143
+  },
+  {
+    "name": "Arthur Gonzalez",
+    "link": "http://web.mta.info/mta/aft/permanentart/permart.html?agency=mnr&line=harlemline&artist=1&station=6",
+    "type": "Percent for Art",
+    "station": "Crestwood",
+    "title": "The Discovery, 1990"
+  },
+  {
+    "name": "Josie Gonzalez Albright",
+    "link": "http://web.mta.info/mta/aft/permanentart/permart.html?agency=nyct&line=4&artist=1&station=1",
+    "type": "Percent for Art",
+    "station": "Woodlawn Avenue",
+    "title": "Children at Play, 2005",
+    "lont": -73.87875099890881,
+    "lat": 40.88603733314497
+  },
+  {
+    "name": "Robert Goodnough",
+    "link": "http://web.mta.info/mta/aft/permanentart/permart.html?agency=mnr&line=hudsonline&artist=1&station=8",
+    "type": "Percent for Art",
+    "station": "Ossining",
+    "title": "K—M—G, 2010"
+  },
+  {
+    "name": "Elizabeth Grajales",
+    "link": "http://web.mta.info/mta/aft/permanentart/permart.html?agency=nyct&line=3&artist=1&station=10",
+    "type": "Percent for Art",
+    "station": "34th Street-Penn Station",
+    "title": "When the animals speak..., 1998",
+    "lont": -73.99105699933416,
+    "lat": 40.75037333357704
+  },
+  {
+    "name": "Jimmy James Greene",
+    "link": "http://web.mta.info/mta/aft/permanentart/permart.html?agency=nyct&line=A&artist=1&station=13",
+    "type": "Percent for Art",
+    "station": "Utica Avenue",
+    "title": "Children's Cathedral, 1996",
+    "lont": -73.93072899845322,
+    "lat": 40.67936433301651
+  },
+  {
+    "name": "Michelle Greene",
+    "link": "http://web.mta.info/mta/aft/permanentart/permart.html?agency=nyct&line=1&artist=1&station=5",
+    "type": "Percent for Art",
+    "station": "116th Street-Columbia University",
+    "title": "Railrider's Throne, 1991",
+    "lont": -73.96410999793578,
+    "lat": 40.807722334261875
+  },
+  {
+    "name": "Jane Greengold",
+    "link": "http://web.mta.info/mta/aft/permanentart/permart.html?agency=nyct&line=3&artist=1&station=18",
+    "type": "Percent for Art",
+    "station": "Grand Army Plaza",
+    "title": "Wings for the IRT: The Irresistible Romance of Travel, 1995"
+  },
+  {
+    "name": "Jane Greengold and Kane Chanh Do",
+    "link": "http://web.mta.info/mta/aft/permanentart/permart.html?agency=mnr&line=harlemline&artist=1&station=11",
+    "type": "Percent for Art",
+    "station": "Pleasantville",
+    "title": "Almost Home, 2002"
+  },
+  {
+    "name": "Bernard Greenwald",
+    "link": "http://web.mta.info/mta/aft/permanentart/permart.html?agency=mnr&line=newhavenline&artist=1&station=7",
+    "type": "Percent for Art",
+    "station": "Port Chester",
+    "title": "Port Chester Scenes, 2011"
+  },
+  {
+    "name": "Corinne Grondahl",
+    "link": "http://web.mta.info/mta/aft/permanentart/permart.html?agency=nyct&line=4&artist=1&station=2",
+    "type": "Percent for Art",
+    "station": "Mosholu Parkway",
+    "title": "Metromorphosis/Birth of a Station, 2008",
+    "lont": -73.88465499988884,
+    "lat": 40.87975033296914
+  },
+  {
+    "name": "Barbara Grygutis",
+    "link": "http://web.mta.info/mta/aft/permanentart/permart.html?agency=nyct&line=6&artist=1&station=10",
+    "type": "Percent for Art",
+    "station": "Whitlock Avenue",
+    "title": "Bronx River View, 2010",
+    "lont": -73.88628299832433,
+    "lat": 40.82652533380191
+  },
+  {
+    "name": "Mark Hadjipateras",
+    "link": "http://web.mta.info/mta/aft/permanentart/permart.html?agency=nyct&line=R&artist=1&station=10",
+    "type": "Percent for Art",
+    "station": "28th Street",
+    "title": "City Dwellers (for Costas and Maro), 2002",
+    "lont": -73.98869800066268,
+    "lat": 40.74545433330924
+  },
+  {
+    "name": "Ann Hamilton",
+    "link": "http://web.mta.info/mta/aft/permanentart/permart.html?agency=nyct&line=1&artist=1&station=18",
+    "type": "Percent for Art",
+    "station": "WTC Cortlandt",
+    "title": "CHORUS, 2018"
+  },
+  {
+    "name": "Frank Leslie Hampton",
+    "link": "http://web.mta.info/mta/aft/permanentart/permart.html?agency=nyct&line=D&artist=1&station=1",
+    "type": "Percent for Art",
+    "station": "Tremont Avenue",
+    "title": "Uptown New York, 2000",
+    "lont": -73.90522700088017,
+    "lat": 40.85041033318809
+  },
+  {
+    "name": "James Gulliver Hancock",
+    "link": "http://web.mta.info/mta/aft/permanentart/permart.html?agency=lirr&line=babylonbranch&artist=2&station=3",
+    "type": "Percent for Art",
+    "station": "Merrick",
+    "title": "Connection Cultivating Communities, 2018"
+  },
+  {
+    "name": "Verna Hart",
+    "link": "http://web.mta.info/mta/aft/permanentart/permart.html?agency=nyct&line=J&artist=1&station=13",
+    "type": "Percent for Art",
+    "station": "Myrtle Avenue",
+    "title": "Jammin' Under the EL, 1999",
+    "lont": -73.93562300040674,
+    "lat": 40.69719533361235
+  },
+  {
+    "name": "Ellen Harvey",
+    "link": "http://web.mta.info/mta/aft/permanentart/permart.html?agency=mnr&line=hudsonline&artist=1&station=1",
+    "type": "Percent for Art",
+    "station": "Yankees-E. 153rd Street",
+    "title": "The Home of the Stars, 2009"
+  },
+  {
+    "name": "Ellen Harvey",
+    "link": "http://web.mta.info/mta/aft/permanentart/permart.html?agency=nyct&line=G&artist=1&station=4",
+    "type": "Percent for Art",
+    "station": "Queens Plaza",
+    "title": "Look Up, Not Down, 2005"
+  },
+  {
+    "name": "Maren Hassinger",
+    "link": "http://web.mta.info/mta/aft/permanentart/permart.html?agency=nyct&line=3&artist=1&station=5",
+    "type": "Percent for Art",
+    "station": "Central Park North (110th Street)",
+    "title": "Message from Malcolm, 1998",
+    "lont": -73.95182200107378,
+    "lat": 40.79907533284112
+  },
+  {
+    "name": "Skowmon Hastanan",
+    "link": "http://web.mta.info/mta/aft/permanentart/permart.html?agency=nyct&line=2&artist=1&station=3",
+    "type": "Percent for Art",
+    "station": "233rd Street",
+    "title": "A Secret Garden: There's No Place Like Home, 2006",
+    "lont": -73.85736239433544,
+    "lat": 40.89314357506239
+  },
+  {
+    "name": "Daniel Hauben",
+    "link": "http://web.mta.info/mta/aft/permanentart/permart.html?agency=nyct&line=5&artist=1&station=14",
+    "type": "Percent for Art",
+    "station": "Freeman Street",
+    "title": "The El, 2007",
+    "lont": -73.89175225285328,
+    "lat": 40.8299877799453
+  },
+  {
+    "name": "Al Held",
+    "link": "http://web.mta.info/mta/aft/permanentart/permart.html?agency=nyct&line=E&artist=1&station=5",
+    "type": "Percent for Art",
+    "station": "Lexington Avenue-53rd Street",
+    "title": "Passing Through, 2004",
+    "lont": -73.96907237417739,
+    "lat": 40.75746864157252
+  },
+  {
+    "name": "Mara Held",
+    "link": "http://web.mta.info/mta/aft/permanentart/permart.html?agency=nyct&line=J&artist=1&station=16",
+    "type": "Percent for Art",
+    "station": "Hewes Street",
+    "title": "El in 16 Notes, 2002",
+    "lont": -73.95348800040841,
+    "lat": 40.706890331217984
+  },
+  {
+    "name": "Yumi Heo",
+    "link": "http://web.mta.info/mta/aft/permanentart/permart.html?agency=nyct&line=7&artist=1&station=6",
+    "type": "Percent for Art",
+    "station": "33 Street-Rawson Street",
+    "title": "Q is for Queens, 1999"
+  },
+  {
+    "name": "Robert Hickman",
+    "link": "http://web.mta.info/mta/aft/permanentart/permart.html?agency=nyct&line=3&artist=1&station=7",
+    "type": "Percent for Art",
+    "station": "72nd Street",
+    "title": "Laced Canopy, 2002",
+    "lont": -73.98197000104193,
+    "lat": 40.77845333395168
+  },
+  {
+    "name": "Callie Hirsch",
+    "link": "http://web.mta.info/mta/aft/permanentart/permart.html?agency=nyct&line=A&artist=1&station=28",
+    "type": "Percent for Art",
+    "station": "Beach 105 Street",
+    "title": "Vast, 2011",
+    "lont": -73.82758074931665,
+    "lat": 40.583268770978755
+  },
+  {
+    "name": "Robin Holder",
+    "link": "http://web.mta.info/mta/aft/permanentart/permart.html?agency=nyct&line=J&artist=1&station=14",
+    "type": "Percent for Art",
+    "station": "Flushing Avenue",
+    "title": "Migration, 2006",
+    "lont": -73.94137734825632,
+    "lat": 40.70040473673457
+  },
+  {
+    "name": "Wopo Holup",
+    "link": "http://web.mta.info/mta/aft/permanentart/permart.html?agency=nyct&line=1&artist=1&station=2",
+    "type": "Percent for Art",
+    "station": "Dyckman Street",
+    "title": "Birds in Flight-Moon View, 2013",
+    "lont": -73.92553599977501,
+    "lat": 40.86053133457367
+  },
+  {
+    "name": "Margie Hughto",
+    "link": "http://web.mta.info/mta/aft/permanentart/permart.html?agency=nyct&line=R&artist=1&station=17",
+    "type": "Percent for Art",
+    "station": "Cortlandt Street",
+    "title": "Trade, Treasure and Travel, 1997/2011",
+    "lont": -74.0111319648397,
+    "lat": 40.710513317670305
+  },
+  {
+    "name": "Anne Huibregtse",
+    "link": "http://web.mta.info/mta/aft/permanentart/permart.html?agency=mnr&line=harlemline&artist=1&station=12",
+    "type": "Percent for Art",
+    "station": "Wassaic",
+    "title": "Arrival, 2000"
+  },
+  {
+    "name": "Michael Ingui",
+    "link": "http://web.mta.info/mta/aft/permanentart/permart.html?agency=nyct&line=L&artist=1&station=1",
+    "type": "Percent for Art",
+    "station": "E. 105th Street",
+    "title": "Crescendo, 2007"
+  },
+  {
+    "name": "Martha Jackson-Jarvis",
+    "link": "http://web.mta.info/mta/aft/permanentart/permart.html?agency=mnr&line=harlemline&artist=1&station=3",
+    "type": "Percent for Art",
+    "station": "Mount Vernon West",
+    "title": "Travelin' Time, 1991"
+  },
+  {
+    "name": "Christopher Janney",
+    "link": "http://web.mta.info/mta/aft/permanentart/permart.html?agency=nyct&line=R&artist=2&station=9",
+    "type": "Percent for Art",
+    "station": "34th Street-Herald Square",
+    "title": "Reach New York, An Urban Musical Instrument, 1996",
+    "lont": -73.98793683324304,
+    "lat": 40.749644893078916
+  },
+  {
+    "name": "Valerie Jaudon",
+    "link": "http://web.mta.info/mta/aft/permanentart/permart.html?agency=nyct&line=6&artist=1&station=23",
+    "type": "Percent for Art",
+    "station": "23rd Street",
+    "title": "Long Division, 1988",
+    "lont": -73.98659900183978,
+    "lat": 40.7398643335507
+  },
+  {
+    "name": "Stephen Johnson",
+    "link": "http://web.mta.info/mta/aft/permanentart/permart.html?agency=nyct&line=Q&artist=1&station=11",
+    "type": "Percent for Art",
+    "station": "DeKalb Avenue",
+    "title": "DeKalb Improvisation, 2005",
+    "lont": -73.98182400036215,
+    "lat": 40.69063500033928
+  },
+  {
+    "name": "Roberto Juarez",
+    "link": "http://web.mta.info/mta/aft/permanentart/permart.html?agency=mnr&line=grandcentralterminal&artist=2&station=1",
+    "type": "Percent for Art",
+    "station": "Grand Central Terminal",
+    "title": "A Field of Wild Flowers, 1997"
+  },
+  {
+    "name": "Mary Judge",
+    "link": "http://web.mta.info/mta/aft/permanentart/permart.html?agency=lirr&line=ronkonkomabranch&artist=2&station=4",
+    "type": "Percent for Art",
+    "station": "Wyandanch",
+    "title": "American Season, 2018"
+  },
+  {
+    "name": "Ik-Joong Kang",
+    "link": "http://web.mta.info/mta/aft/permanentart/permart.html?agency=nyct&line=7&artist=1&station=1",
+    "type": "Percent for Art",
+    "station": "Flushing-Main Street",
+    "title": "Happy World, 1999",
+    "lont": -73.83003000183344,
+    "lat": 40.75960033237315
+  },
+  {
+    "name": "Tricia Keightley",
+    "link": "http://web.mta.info/mta/aft/permanentart/permart.html?agency=nyct&line=7&artist=1&station=8",
+    "type": "Percent for Art",
+    "station": "Hunters Point",
+    "title": "Hunters Point Avenue Project, 2012",
+    "lont": -73.9489160011607,
+    "lat": 40.74221633326165
+  },
+  {
+    "name": "Nathan Kensinger",
+    "link": "http://web.mta.info/mta/aft/lightbox/lightbox.html?station=4",
+    "type": "Lightbox",
+    "station": "Grand Central Terminal Dining Concourse West",
+    "title": "Grand Central Revealed: Photographs of the west façade"
+  },
+  {
+    "name": "Jung Hyang Kim",
+    "link": "http://web.mta.info/mta/aft/permanentart/permart.html?agency=nyct&line=J&artist=1&station=3",
+    "type": "Percent for Art",
+    "station": "Crescent Street",
+    "title": "Wheel of Bloom-Soak up the Sun, 2007",
+    "lont": -73.87392925190409,
+    "lat": 40.68315299047885
+  },
+  {
+    "name": "Ray King",
+    "link": "http://web.mta.info/mta/aft/permanentart/permart.html?agency=nyct&line=A&artist=1&station=17",
+    "type": "Percent for Art",
+    "station": "Rockaway Boulevard",
+    "title": "Connections, 2015",
+    "lont": -73.8438529971175,
+    "lat": 40.68042933335036
+  },
+  {
+    "name": "Ed Kopel",
+    "link": "http://web.mta.info/mta/aft/permanentart/permart.html?agency=nyct&line=Q&artist=1&station=17",
+    "type": "Percent for Art",
+    "station": "Avenue H",
+    "title": "Brooklyn Bucolic, 2012",
+    "lont": -73.96151793874012,
+    "lat": 40.62920871052413
+  },
+  {
+    "name": "K K Kozik",
+    "link": "http://web.mta.info/mta/aft/permanentart/permart.html?agency=nyct&line=A&artist=1&station=29",
+    "type": "Percent for Art",
+    "station": "Rockaway Park-Beach 116 Street",
+    "title": "First on the Beach and Wednesday Night Fireworks, 2008",
+    "lont": -73.83559008596322,
+    "lat": 40.58095619916644
+  },
+  {
+    "name": "Joyce Kozloff",
+    "link": "http://web.mta.info/mta/aft/permanentart/permart.html?agency=nyct&line=B&artist=1&station=4",
+    "type": "Percent for Art",
+    "station": "86 St",
+    "title": "Parkside Portals, 2018",
+    "lont": -73.96882849456208,
+    "lat": 40.785823379651546
+  },
+  {
+    "name": "Michael Krondl",
+    "link": "http://web.mta.info/mta/aft/permanentart/permart.html?agency=nyct&line=F&artist=1&station=19",
+    "type": "Percent for Art",
+    "station": "Neptune Avenue",
+    "title": "Looking Up, 2004",
+    "lont": -73.97459272802236,
+    "lat": 40.58073909152164
+  },
+  {
+    "name": "Samm Kunce",
+    "link": "http://web.mta.info/mta/aft/permanentart/permart.html?agency=nyct&line=F&artist=1&station=3",
+    "type": "Percent for Art",
+    "station": "42nd Street-Bryant Park/Fifth Avenue",
+    "title": "Under Bryant Park, 2002",
+    "lont": -73.984590998399,
+    "lat": 40.75418433462967
+  },
+  {
+    "name": "Robert Kushner",
+    "link": "http://web.mta.info/mta/aft/permanentart/permart.html?agency=nyct&line=6&artist=1&station=17",
+    "type": "Percent for Art",
+    "station": "77th Street",
+    "title": "4 Seasons Seasoned, 2004",
+    "lont": -73.9598739980726,
+    "lat": 40.77362033401498
+  },
+  {
+    "name": "Haresh Lalvani",
+    "link": "http://web.mta.info/mta/aft/permanentart/permart.html?agency=nyct&line=A&artist=1&station=16",
+    "type": "Percent for Art",
+    "station": "88th Street",
+    "title": "MORPHING88, 2015",
+    "lont": -73.8514699989356,
+    "lat": 40.67984333439131
+  },
+  {
+    "name": "Cal Lane",
+    "link": "http://web.mta.info/mta/aft/permanentart/permart.html?agency=nyct&line=M&artist=1&station=18",
+    "type": "Percent for Art",
+    "station": "Knickerbocker Avenue",
+    "title": "The Digs, 2013",
+    "lont": -73.91972000097114,
+    "lat": 40.698660334772896
+  },
+  {
+    "name": "Margaret  Lanzetta",
+    "link": "http://web.mta.info/mta/aft/permanentart/permart.html?agency=nyct&line=J&artist=1&station=4",
+    "type": "Percent for Art",
+    "station": "Norwood Avenue",
+    "title": "Culture Swirl, 2007",
+    "lont": -73.87962599833826,
+    "lat": 40.68152033389478
+  },
+  {
+    "name": "Jacob Lawrence",
+    "link": "http://web.mta.info/mta/aft/permanentart/permart.html?agency=nyct&line=P&artist=4&station=2",
+    "type": "Percent for Art",
+    "station": "Times Square-42nd Street",
+    "title": "New York in Transit, 2001"
+  },
+  {
+    "name": "Beatrice Lebreton",
+    "link": "http://web.mta.info/mta/aft/permanentart/permart.html?agency=nyct&line=3&artist=1&station=24",
+    "type": "Percent for Art",
+    "station": "Rockaway Avenue",
+    "title": "Wisdom Along the Way, 2017",
+    "lont": -73.9089583356391,
+    "lat": 40.66261782103152
+  },
+  {
+    "name": "Bing Lee",
+    "link": "http://web.mta.info/mta/aft/permanentart/permart.html?agency=nyct&line=J&artist=1&station=19",
+    "type": "Percent for Art",
+    "station": "Canal Street",
+    "title": "Empress Voyage 2.22.1794, 1998",
+    "lont": -73.99982638555147,
+    "lat": 40.71817420996139
+  },
+  {
+    "name": "Timothy Hyunsoo Lee",
+    "link": "http://web.mta.info/mta/aft/permanentart/permart.html?agency=lirr&line=hempsteadbranch&artist=1&station=2",
+    "type": "Percent for Art",
+    "station": "Stewart Manor",
+    "title": "Come Back Home, 2018"
+  },
+  {
+    "name": "Andrew Leicester",
+    "link": "http://web.mta.info/mta/aft/permanentart/permart.html?agency=lirr&line=pennstation&artist=1&station=1",
+    "type": "Percent for Art",
+    "station": "Penn Station",
+    "title": "Ghosts Series, 1994"
+  },
+  {
+    "name": "Derek Lerner",
+    "link": "http://web.mta.info/mta/aft/permanentart/permart.html?agency=nyct&line=F&artist=1&station=18",
+    "type": "Percent for Art",
+    "station": "Avenue X",
+    "title": "AVEX1-6(station), 2017",
+    "lont": -73.97426599930228,
+    "lat": 40.589449999847005
+  },
+  {
+    "name": "Simon Levenson",
+    "link": "http://web.mta.info/mta/aft/permanentart/permart.html?agency=nyct&line=A&artist=1&station=24",
+    "type": "Percent for Art",
+    "station": "Beach 60 Street",
+    "title": "The Beaches of New York City, 2011",
+    "lont": -73.78852199717782,
+    "lat": 40.59237433461577
+  },
+  {
+    "name": "Sol LeWitt",
+    "link": "http://web.mta.info/mta/aft/permanentart/permart.html?agency=nyct&line=C&artist=1&station=6",
+    "type": "Percent for Art",
+    "station": "59th Street-Columbus Circle",
+    "title": "Whirls and twirls (MTA), 2009",
+    "lont": -73.98164872336676,
+    "lat": 40.768249864983254
+  },
+  {
+    "name": "Roy Lichtenstein",
+    "link": "http://web.mta.info/mta/aft/permanentart/permart.html?agency=nyct&line=P&artist=1&station=2",
+    "type": "Percent for Art",
+    "station": "Times Square-42nd Street",
+    "title": "Times Square Mural, 2002 (Collage 1990, fabricated 1994)"
+  },
+  {
+    "name": "Maya Lin",
+    "link": "http://web.mta.info/mta/aft/permanentart/permart.html?agency=lirr&line=pennstation&artist=2&station=1",
+    "type": "Percent for Art",
+    "station": "Penn Station",
+    "title": "Eclipsed Time, 1994"
+  },
+  {
+    "name": "Joan Linder",
+    "link": "http://web.mta.info/mta/aft/permanentart/permart.html?agency=nyct&line=D&artist=1&station=12",
+    "type": "Percent for Art",
+    "station": "71st Street",
+    "title": "The Flora of Bensonhurst, 2012",
+    "lont": -73.9988409490545,
+    "lat": 40.61925904300817
+  },
+  {
+    "name": "Donald Lipski",
+    "link": "http://web.mta.info/mta/aft/permanentart/permart.html?agency=mnr&line=grandcentralterminal&artist=3&station=1",
+    "type": "Percent for Art",
+    "station": "Grand Central Terminal",
+    "title": "Sirshasana, 1998"
+  },
+  {
+    "name": "Mauricio Lopez",
+    "link": "http://web.mta.info/mta/aft/permanentart/permart.html?agency=nyct&line=A&artist=1&station=21",
+    "type": "Percent for Art",
+    "station": "Beach 25 Street",
+    "title": "Past/Present/Future, 2011",
+    "lont": -73.76135299673638,
+    "lat": 40.60006633421964
+  },
+  {
+    "name": "Al Loving",
+    "link": "http://web.mta.info/mta/aft/permanentart/permart.html?agency=nyct&line=J&artist=1&station=8",
+    "type": "Percent for Art",
+    "station": "Broadway Junction",
+    "title": "Brooklyn, New Morning, 2001",
+    "lont": -73.9042899974254,
+    "lat": 40.679366334574624
+  },
+  {
+    "name": "William Low",
+    "link": "http://web.mta.info/mta/aft/permanentart/permart.html?agency=nyct&line=6&artist=1&station=6",
+    "type": "Percent for Art",
+    "station": "Parkchester",
+    "title": "A Day in Parkchester, 2011",
+    "lont": -73.86081599995809,
+    "lat": 40.83322633218034
+  },
+  {
+    "name": "William Low",
+    "link": "http://web.mta.info/mta/aft/permanentart/permart.html?agency=lirr&line=ronkonkomabranch&artist=1&station=5",
+    "type": "Percent for Art",
+    "station": "Deer Park",
+    "title": "Deer Park Dahlias, 2018"
+  },
+  {
+    "name": "Jenna Lucente",
+    "link": "http://web.mta.info/mta/aft/permanentart/permart.html?agency=sir&line=1&artist=1&station=1",
+    "type": "Percent for Art",
+    "station": "Arthur Kill",
+    "title": "Tottenville Sun, Tottenville Sky, 2016"
+  },
+  {
+    "name": "Cara Lynch",
+    "link": "http://web.mta.info/mta/aft/permanentart/permart.html?agency=nyct&line=F&artist=1&station=10",
+    "type": "Percent for Art",
+    "station": "Ditmas Avenue",
+    "title": "Inheritance: In Memory of American Glass, 2017",
+    "lont": -73.9781719999271,
+    "lat": 40.63611899980037
+  },
+  {
+    "name": "Rita MacDonald",
+    "link": "http://web.mta.info/mta/aft/permanentart/permart.html?agency=nyct&line=Q&artist=1&station=18",
+    "type": "Percent for Art",
+    "station": "Avenue J",
+    "title": "Bird Laid Bare, 2011",
+    "lont": -73.96069316246778,
+    "lat": 40.625023152905705
+  },
+  {
+    "name": "Rita MacDonald",
+    "link": "http://web.mta.info/mta/aft/permanentart/permart.html?agency=nyct&line=Q&artist=1&station=19",
+    "type": "Percent for Art",
+    "station": "Avenue M",
+    "title": "Hare Apparent, 2011",
+    "lont": -73.95924310477643,
+    "lat": 40.61739807818342
+  },
+  {
+    "name": "Karen Margolis",
+    "link": "http://web.mta.info/mta/aft/permanentart/permart.html?agency=nyct&line=N&artist=1&station=22",
+    "type": "Percent for Art",
+    "station": "86 St",
+    "title": "Cerebration, 2018"
+  },
+  {
+    "name": "Armando Mariño",
+    "link": "http://web.mta.info/mta/aft/permanentart/permart.html?agency=lirr&line=ronkonkomabranch&artist=1&station=6",
+    "type": "Percent for Art",
+    "station": "Brentwood",
+    "title": "The Guardian Angel, 2018"
+  },
+  {
+    "name": "Frederick Dana Marsh",
+    "link": "http://web.mta.info/mta/aft/permanentart/permart.html?agency=nyct&line=J&artist=1&station=22",
+    "type": "Percent for Art",
+    "station": "Fulton Street/William Street",
+    "title": "Marine Grill Murals, ca. 1913; installed 2000; relocated 2011",
+    "lont": -74.0079380008774,
+    "lat": 40.71002299961088
+  },
+  {
+    "name": "Walter Martin and Paloma Muñoz",
+    "link": "http://web.mta.info/mta/aft/permanentart/permart.html?agency=nyct&line=E&artist=1&station=14",
+    "type": "Percent for Art",
+    "station": "Canal Street",
+    "title": "A Gathering, 2001",
+    "lont": -74.00522900191194,
+    "lat": 40.72082433307871
+  },
+  {
+    "name": "Deborah Masters",
+    "link": "http://web.mta.info/mta/aft/permanentart/permart.html?agency=nyct&line=Q&artist=1&station=25",
+    "type": "Percent for Art",
+    "station": "Ocean Parkway Viaduct",
+    "title": "Coney Island Reliefs, 2010",
+    "lont": -73.9685010000048,
+    "lat": 40.5763120005781
+  },
+  {
+    "name": "Valerie Maynard",
+    "link": "http://web.mta.info/mta/aft/permanentart/permart.html?agency=nyct&line=6&artist=2&station=11",
+    "type": "Percent for Art",
+    "station": "125th Street",
+    "title": "Polyrhythmics of Consciousness and Light, 2003",
+    "lont": -73.93759400019064,
+    "lat": 40.804138334029325
+  },
+  {
+    "name": "Kathleen McCarthy",
+    "link": "http://web.mta.info/mta/aft/permanentart/permart.html?agency=nyct&line=J&artist=1&station=2",
+    "type": "Percent for Art",
+    "station": "111th Street-104th Street-Woodhaven Boulevard - 75th Street - Cypress Hills",
+    "title": "Five Points of Observation, 1990-93",
+    "lont": -73.83679338317,
+    "lat": 40.69711514442172
+  },
+  {
+    "name": "Ed McGowin",
+    "link": "http://web.mta.info/mta/aft/permanentart/permart.html?agency=lirr&line=portwashingtonbranch&artist=1&station=2",
+    "type": "Percent for Art",
+    "station": "Bayside Station",
+    "title": "Bayside Story, 1999"
+  },
+  {
+    "name": "Maureen McQuillan",
+    "link": "http://web.mta.info/mta/aft/permanentart/permart.html?agency=nyct&line=N&artist=1&station=2",
+    "type": "Percent for Art",
+    "station": "36th Avenue",
+    "title": "Crystal Blue Persuasion, 2018",
+    "lont": -73.92986199833236,
+    "lat": 40.75644233343755
+  },
+  {
+    "name": "Jason Middlebrook",
+    "link": "http://web.mta.info/mta/aft/permanentart/permart.html?agency=nyct&line=Q&artist=1&station=21",
+    "type": "Percent for Art",
+    "station": "Avenue U",
+    "title": "Brooklyn Seeds, 2011",
+    "lont": -73.9558112232107,
+    "lat": 40.5993092845579
+  },
+  {
+    "name": "Michael Miller",
+    "link": "http://web.mta.info/mta/aft/permanentart/permart.html?agency=nyct&line=A&artist=1&station=26",
+    "type": "Percent for Art",
+    "station": "Beach 90 Street",
+    "title": "Surf Station 90, 2011",
+    "lont": -73.81365140294552,
+    "lat": 40.58809189768098
+  },
+  {
+    "name": "Mary Miss",
+    "link": "http://web.mta.info/mta/aft/permanentart/permart.html?agency=nyct&line=R&artist=1&station=12",
+    "type": "Percent for Art",
+    "station": "14th Street-Union Square",
+    "title": "Framing Union Square, 1998",
+    "lont": -73.9905388616843,
+    "lat": 40.73587260060109
+  },
+  {
+    "name": "Tomo Mori",
+    "link": "http://web.mta.info/mta/aft/permanentart/permart.html?agency=c&line=1&artist=1&station=1",
+    "type": "Percent for Art",
+    "station": "Manhattanville Bus Depot",
+    "title": "The Wheels on the Bus, 2018"
+  },
+  {
+    "name": "Alison Moritsugu",
+    "link": "http://web.mta.info/mta/aft/permanentart/permart.html?agency=nyct&line=6&artist=1&station=7",
+    "type": "Percent for Art",
+    "station": "St. Lawrence Avenue",
+    "title": "Community (Acer rubrum, Rosa palustris, Smilax rotundifolia, Carya cordiformis), 2011"
+  },
+  {
+    "name": "Mario M. Muller",
+    "link": "http://web.mta.info/mta/aft/permanentart/permart.html?agency=nyct&line=4&artist=1&station=4",
+    "type": "Percent for Art",
+    "station": "Kingsbridge Road",
+    "title": "Urban Motif, 2007",
+    "lont": -73.89717400101911,
+    "lat": 40.867760333744734
+  },
+  {
+    "name": "Matt Mullican",
+    "link": "http://web.mta.info/mta/aft/permanentart/permart.html?agency=mnr&line=newhavenline&artist=1&station=6",
+    "type": "Percent for Art",
+    "station": "Rye",
+    "title": "Untitled, 2011"
+  },
+  {
+    "name": "Matt Mullican",
+    "link": "http://web.mta.info/mta/aft/permanentart/permart.html?agency=nyct&line=E&artist=1&station=8",
+    "type": "Percent for Art",
+    "station": "50th Street",
+    "title": "Untitled, 1989",
+    "lont": -73.98598399999051,
+    "lat": 40.762456332634045
+  },
+  {
+    "name": "Vik Muniz",
+    "link": "http://web.mta.info/mta/aft/permanentart/permart.html?agency=nyct&line=Q&artist=1&station=3",
+    "type": "Percent for Art",
+    "station": "Second Avenue–72nd Street",
+    "title": "Perfect Strangers, 2017"
+  },
+  {
+    "name": "Vik Muniz",
+    "link": "http://web.mta.info/mta/aft/lightbox/lightbox.html?station=5",
+    "type": "Lightbox",
+    "station": "Atlantic Avenue-Barclays",
+    "title": "Industrial Twilight"
+  },
+  {
+    "name": "Portia Munson",
+    "link": "http://web.mta.info/mta/aft/permanentart/permart.html?agency=nyct&line=D&artist=1&station=10",
+    "type": "Percent for Art",
+    "station": "Fort Hamilton",
+    "title": "Gardens of Fort Hamilton Parkway Station, 2012"
+  },
+  {
+    "name": "Elizabeth Murray",
+    "link": "http://web.mta.info/mta/aft/permanentart/permart.html?agency=nyct&line=R&artist=1&station=5",
+    "type": "Percent for Art",
+    "station": "59th Street/Lexington Avenue-59th Street",
+    "title": "Blooming, 1996",
+    "lont": -74.01788099968473,
+    "lat": 40.64136199944241
+  },
+  {
+    "name": "Elizabeth Murray",
+    "link": "http://web.mta.info/mta/aft/permanentart/permart.html?agency=nyct&line=G&artist=1&station=3",
+    "type": "Percent for Art",
+    "station": "23rd Street-Ely Avenue/Long Island City-Court Square",
+    "title": "Stream, 2001",
+    "lont": -73.94381559557159,
+    "lat": 40.74630536706204
+  },
+  {
+    "name": "Max Neuhaus",
+    "link": "http://web.mta.info/mta/aft/permanentart/permart.html?agency=nyct&line=P&artist=1&station=3",
+    "type": "Percent for Art",
+    "station": "Times Square-46th Street",
+    "title": "Times Square, 1977-1992, 2002-present"
+  },
+  {
+    "name": "Roy Nicholson",
+    "link": "http://web.mta.info/mta/aft/permanentart/permart.html?agency=lirr&line=portjeffersonbranch&artist=1&station=2",
+    "type": "Percent for Art",
+    "station": "Hicksville",
+    "title": "Hempstead Plain, Morning & Evening, 2018"
+  },
+  {
+    "name": "Takayo Noda",
+    "link": "http://web.mta.info/mta/aft/permanentart/permart.html?agency=nyct&line=L&artist=1&station=4",
+    "type": "Percent for Art",
+    "station": "Sutter Avenue",
+    "title": "The Habitat for the Yellow Bird, 2007",
+    "lont": -73.90191599959435,
+    "lat": 40.66914533375269
+  },
+  {
+    "name": "Patsy Norvell",
+    "link": "http://web.mta.info/mta/aft/permanentart/permart.html?agency=nyct&line=Q&artist=1&station=15",
+    "type": "Percent for Art",
+    "station": "Beverley Road and Cortelyou Road",
+    "title": "Garden Stops, 1994-1996",
+    "lont": -73.96379005494865,
+    "lat": 40.640940498719964
+  },
+  {
+    "name": "Tom Nussbaum",
+    "link": "http://web.mta.info/mta/aft/permanentart/permart.html?agency=mnr&line=harlemline&artist=1&station=8",
+    "type": "Percent for Art",
+    "station": "Hartsdale",
+    "title": "Workers, 1991"
+  },
+  {
+    "name": "Odili Donald Odita",
+    "link": "http://web.mta.info/mta/aft/permanentart/permart.html?agency=nyct&line=D&artist=1&station=15",
+    "type": "Percent for Art",
+    "station": "20th Avenue",
+    "title": "Kaleidoscope, 2012",
+    "lont": -73.99817432102677,
+    "lat": 40.604677331055306
+  },
+  {
+    "name": "Kambui Olujimi",
+    "link": "http://web.mta.info/mta/aft/permanentart/permart.html?agency=nyct&line=F&artist=1&station=12",
+    "type": "Percent for Art",
+    "station": "Avenue I",
+    "title": "Where the Sky Begins, 2018",
+    "lont": -73.97606933193563,
+    "lat": 40.625017773484714
+  },
+  {
+    "name": "Yoko Ono",
+    "link": "http://web.mta.info/mta/aft/permanentart/permart.html?agency=nyct&line=C&artist=1&station=5",
+    "type": "Percent for Art",
+    "station": "72 Street",
+    "title": "SKY, 2018",
+    "lont": -73.97633657548654,
+    "lat": 40.77551973103465
+  },
+  {
+    "name": "Dennis Oppenheim",
+    "link": "http://web.mta.info/mta/aft/permanentart/permart.html?agency=mnr&line=hudsonline&artist=1&station=2",
+    "type": "Percent for Art",
+    "station": "Riverdale",
+    "title": "Rising and Setting, 2006"
+  },
+  {
+    "name": "Eamon Ore-Giron",
+    "link": "http://web.mta.info/mta/aft/permanentart/permart.html?agency=nyct&line=N&artist=1&station=20",
+    "type": "Percent for Art",
+    "station": "Bay Pkwy",
+    "title": "People’s Instinctive Travels: Homage to The Tribe, 2018"
+  },
+  {
+    "name": "José Ortega",
+    "link": "http://web.mta.info/mta/aft/permanentart/permart.html?agency=nyct&line=5&artist=1&station=19",
+    "type": "Percent for Art",
+    "station": "3rd Avenue-149th Street",
+    "title": "Una Raza, Un Mundo, Universo (One Race, One World, One Universe), 1996",
+    "lont": -73.91779152703793,
+    "lat": 40.816029585709344
+  },
+  {
+    "name": "Jose Ortiz",
+    "link": "http://web.mta.info/mta/aft/permanentart/permart.html?agency=nyct&line=4&artist=1&station=6",
+    "type": "Percent for Art",
+    "station": "183rd Street",
+    "title": "Many Trails, 2008",
+    "lont": -73.9038790007054,
+    "lat": 40.85840733349188
+  },
+  {
+    "name": "Tom Otterness",
+    "link": "http://web.mta.info/mta/aft/permanentart/permart.html?agency=nyct&line=L&artist=1&station=9",
+    "type": "Percent for Art",
+    "station": "14th Street/Eight Avenue",
+    "title": "Life Underground, 2001",
+    "lont": -73.99066976943084,
+    "lat": 40.73476364552659
+  },
+  {
+    "name": "Jill Parisi",
+    "link": "http://web.mta.info/mta/aft/permanentart/permart.html?agency=nyct&line=A&artist=1&station=23",
+    "type": "Percent for Art",
+    "station": "Beach 44 Street",
+    "title": "Coom Barooom, 2011",
+    "lont": -73.77601299886851,
+    "lat": 40.59294333262581
+  },
+  {
+    "name": "Tom Patti",
+    "link": "http://web.mta.info/mta/aft/permanentart/permart.html?agency=nyct&line=F&artist=1&station=1",
+    "type": "Percent for Art",
+    "station": "Jackson Heights-Roosevelt Avenue/74th Street-Broadway",
+    "title": "Passage, 2004",
+    "lont": -73.89129866498959,
+    "lat": 40.74654002448512
+  },
+  {
+    "name": "Mia Pearlman",
+    "link": "http://web.mta.info/mta/aft/permanentart/permart.html?agency=nyct&line=A&artist=1&station=15",
+    "type": "Percent for Art",
+    "station": "80th Street",
+    "title": "Soar, 2015",
+    "lont": -73.85899200121291,
+    "lat": 40.679371334570604
+  },
+  {
+    "name": "Nicholas Pearson",
+    "link": "http://web.mta.info/mta/aft/permanentart/permart.html?agency=nyct&line=R&artist=3&station=9",
+    "type": "Percent for Art",
+    "station": "34th Street-Herald Square",
+    "title": "Halo, 1991",
+    "lont": -73.98793683324304,
+    "lat": 40.749644893078916
+  },
+  {
+    "name": "Liliana Porter",
+    "link": "http://web.mta.info/mta/aft/permanentart/permart.html?agency=mnr&line=hudsonline&artist=1&station=7",
+    "type": "Percent for Art",
+    "station": "Scarborough",
+    "title": "Untitled with Sky, 2010"
+  },
+  {
+    "name": "Liliana Porter",
+    "link": "http://web.mta.info/mta/aft/permanentart/permart.html?agency=nyct&line=1&artist=1&station=11",
+    "type": "Percent for Art",
+    "station": "50th Street",
+    "title": "Alice: The Way Out, 1994",
+    "lont": -73.98384899991842,
+    "lat": 40.76172833308103
+  },
+  {
+    "name": "David Provan",
+    "link": "http://web.mta.info/mta/aft/permanentart/permart.html?agency=nyct&line=R&artist=4&station=9",
+    "type": "Percent for Art",
+    "station": "34th Street-Herald Square",
+    "title": "Yab-Yum, 1992",
+    "lont": -73.98793683324304,
+    "lat": 40.749644893078916
+  },
+  {
+    "name": "Eric Pryor",
+    "link": "http://web.mta.info/mta/aft/permanentart/permart.html?agency=nyct&line=S&artist=1&station=1",
+    "type": "Percent for Art",
+    "station": "Franklin Avenue",
+    "title": "Life and Continued Growth, 1999",
+    "lont": -73.95582700108798,
+    "lat": 40.68059599942808
+  },
+  {
+    "name": "Scott Redden",
+    "link": "http://web.mta.info/mta/aft/permanentart/permart.html?agency=nyct&line=J&artist=1&station=7",
+    "type": "Percent for Art",
+    "station": "Alabama Avenue",
+    "title": "Untitled, 2007",
+    "lont": -73.89852600099044,
+    "lat": 40.67699833360107
+  },
+  {
+    "name": "Duke Riley",
+    "link": "http://web.mta.info/mta/aft/permanentart/permart.html?agency=nyct&line=A&artist=1&station=27",
+    "type": "Percent for Art",
+    "station": "Beach 98 Street",
+    "title": "Be Good or Be Gone, 2011",
+    "lont": -73.82052058872064,
+    "lat": 40.58538602425417
+  },
+  {
+    "name": "Ray Ring",
+    "link": "http://web.mta.info/mta/aft/permanentart/permart.html?agency=nyct&line=3&artist=1&station=15",
+    "type": "Percent for Art",
+    "station": "Clark Street",
+    "title": "Clark Street Passage, 1987",
+    "lont": -73.99308599832662,
+    "lat": 40.69746633298482
+  },
+  {
+    "name": "Faith Ringgold",
+    "link": "http://web.mta.info/mta/aft/permanentart/permart.html?agency=nyct&line=3&artist=1&station=3",
+    "type": "Percent for Art",
+    "station": "125th Street",
+    "title": "Flying Home: Harlem Heroes and Heroines (Downtown and Uptown), 1996",
+    "lont": -73.94549500019218,
+    "lat": 40.807754332840474
+  },
+  {
+    "name": "Chris Wade Robinson",
+    "link": "http://web.mta.info/mta/aft/permanentart/permart.html?agency=nyct&line=J&artist=1&station=11",
+    "type": "Percent for Art",
+    "station": "Gates Avenue",
+    "title": "Dream Train, 2002",
+    "lont": -73.92215600058701,
+    "lat": 40.68958433256818
+  },
+  {
+    "name": "Jason Rohlf",
+    "link": "http://web.mta.info/mta/aft/permanentart/permart.html?agency=nyct&line=A&artist=1&station=20",
+    "type": "Percent for Art",
+    "station": "Far Rockaway-Mott Avenue",
+    "title": "Respite, 2011",
+    "lont": -73.7554049978951,
+    "lat": 40.60399533472034
+  },
+  {
+    "name": "Moses Ros",
+    "link": "http://web.mta.info/mta/aft/permanentart/permart.html?agency=nyct&line=4&artist=1&station=5",
+    "type": "Percent for Art",
+    "station": "Fordham Road",
+    "title": "Patriasana, Wholesomeland, 2005",
+    "lont": -73.90103399833198,
+    "lat": 40.86280333320703
+  },
+  {
+    "name": "Harry Roseman",
+    "link": "http://web.mta.info/mta/aft/permanentart/permart.html?agency=nyct&line=3&artist=1&station=14",
+    "type": "Percent for Art",
+    "station": "Wall Street",
+    "title": "Subway Wall, 1990",
+    "lont": -74.00909999899459,
+    "lat": 40.70682133279038
+  },
+  {
+    "name": "Christopher Russell",
+    "link": "http://web.mta.info/mta/aft/permanentart/permart.html?agency=nyct&line=D&artist=1&station=9",
+    "type": "Percent for Art",
+    "station": "9th Avenue",
+    "title": "Bees for Sunset Park, 2012",
+    "lont": -73.99444874408546,
+    "lat": 40.64648441084645
+  },
+  {
+    "name": "Alison Saar",
+    "link": "http://web.mta.info/mta/aft/permanentart/permart.html?agency=mnr&line=harlemline&artist=1&station=1",
+    "type": "Percent for Art",
+    "station": "Harlem - 125 Street",
+    "title": "Hear the Lone Whistle Moan, 1991"
+  },
+  {
+    "name": "Juan Sánchez",
+    "link": "http://web.mta.info/mta/aft/permanentart/permart.html?agency=nyct&line=4&artist=1&station=8",
+    "type": "Percent for Art",
+    "station": "176th Street",
+    "title": "Reaching Out For Each Other, 2006",
+    "lont": -73.91179399805148,
+    "lat": 40.84848033423412
+  },
+  {
+    "name": "David Saunders",
+    "link": "http://web.mta.info/mta/aft/permanentart/permart.html?agency=lirr&line=portwashingtonbranch&artist=1&station=3",
+    "type": "Percent for Art",
+    "station": "Great Neck",
+    "title": "Conductor's Watch and Key Chain, 1992"
+  },
+  {
+    "name": "Lynn Saville",
+    "link": "http://web.mta.info/mta/aft/lightbox/lightbox.html?station=6",
+    "type": "Lightbox",
+    "station": "Times Square-42nd Street",
+    "title": "New York City, after George Bellows (Pictures of Magazines 2), 2011"
+  },
+  {
+    "name": "Amanda Schachter & Alexander Levi",
+    "link": "http://web.mta.info/mta/aft/permanentart/permart.html?agency=nyct&line=6&artist=1&station=2",
+    "type": "Percent for Art",
+    "station": "Middletown Road",
+    "title": "Cross-Bronx Waterway, 2015",
+    "lont": -73.83632199732654,
+    "lat": 40.843863334673635
+  },
+  {
+    "name": "Josh Scharf",
+    "link": "http://web.mta.info/mta/aft/permanentart/permart.html?agency=nyct&line=R&artist=1&station=6",
+    "type": "Percent for Art",
+    "station": "57th Street-7th Avenue",
+    "title": "Carnegie Hall Montage, 1994",
+    "lont": -73.98072973313602,
+    "lat": 40.76456585850871
+  },
+  {
+    "name": "Ann Schaumburger",
+    "link": "http://web.mta.info/mta/aft/permanentart/permart.html?agency=nyct&line=R&artist=1&station=4",
+    "type": "Percent for Art",
+    "station": "Fifth Avenue/59th Street",
+    "title": "Urban Oasis, 1997",
+    "lont": -74.01788099968473,
+    "lat": 40.64136199944241
+  },
+  {
+    "name": "Timothy Schenck",
+    "link": "http://web.mta.info/mta/aft/lightbox/lightbox.html?station=2",
+    "type": "Lightbox",
+    "station": "Bowling Green",
+    "title": "Daily Voyage"
+  },
+  {
+    "name": "Holly Sears",
+    "link": "http://web.mta.info/mta/aft/permanentart/permart.html?agency=mnr&line=hudsonline&artist=1&station=5",
+    "type": "Percent for Art",
+    "station": "Tarrytown",
+    "title": "Hudson River Explorers, 2012"
+  },
+  {
+    "name": "Barbara Segal",
+    "link": "http://web.mta.info/mta/aft/permanentart/permart.html?agency=mnr&line=hudsonline&artist=1&station=3",
+    "type": "Percent for Art",
+    "station": "Yonkers",
+    "title": "Muhheakantuck (The River that Flows Two Ways), 2005"
+  },
+  {
+    "name": "Isha Shabaka",
+    "link": "http://web.mta.info/mta/aft/permanentart/permart.html?agency=nyct&line=S&artist=1&station=2",
+    "type": "Percent for Art",
+    "station": "Park Place",
+    "title": "Units of the Free, 1999",
+    "lont": -73.95762400033107,
+    "lat": 40.674771999887255
+  },
+  {
+    "name": "Jean Shin",
+    "link": "http://web.mta.info/mta/aft/permanentart/permart.html?agency=nyct&line=Q&artist=1&station=4",
+    "type": "Percent for Art",
+    "station": "Lexington Avenue – 63rd Street",
+    "title": "Elevated, 2017",
+    "lont": -73.9673750166445,
+    "lat": 40.762709188743855
+  },
+  {
+    "name": "Jean Shin",
+    "link": "http://web.mta.info/mta/aft/permanentart/permart.html?agency=lirr&line=portwashingtonbranch&artist=1&station=1",
+    "type": "Percent for Art",
+    "station": "Broadway Station",
+    "title": "Celadon Remnants, 2008"
+  },
+  {
+    "name": "Alyson Shotz",
+    "link": "http://web.mta.info/mta/aft/permanentart/permart.html?agency=nyct&line=F&artist=1&station=9",
+    "type": "Percent for Art",
+    "station": "Smith-9 Street",
+    "title": "Nautical Charts – Gowanus & Red Hook from 1733-1922; Fathom Points + Compass Bearings, 2013",
+    "lont": -73.99589172757463,
+    "lat": 40.673641394609135
+  },
+  {
+    "name": "Lisa Sigal",
+    "link": "http://web.mta.info/mta/aft/permanentart/permart.html?agency=nyct&line=F&artist=1&station=14",
+    "type": "Percent for Art",
+    "station": "Avenue N",
+    "title": "Push Pull, 2018",
+    "lont": -73.97404850907516,
+    "lat": 40.61435704529457
+  },
+  {
+    "name": "Francesco Simeti",
+    "link": "http://web.mta.info/mta/aft/permanentart/permart.html?agency=nyct&line=D&artist=1&station=14",
+    "type": "Percent for Art",
+    "station": "18th Avenue",
+    "title": "Bensonhurst Gardens, 2012",
+    "lont": -74.00159259254073,
+    "lat": 40.607736065209444
+  },
+  {
+    "name": "Dan Sinclair",
+    "link": "http://web.mta.info/mta/aft/permanentart/permart.html?agency=nyct&line=P&artist=2&station=1",
+    "type": "Percent for Art",
+    "station": "Grand Central-42nd Street",
+    "title": "Fast Track and Speedwheels, 1990"
+  },
+  {
+    "name": " SITU Studio",
+    "link": "http://web.mta.info/mta/aft/permanentart/permart.html?agency=mnr&line=harlemline&artist=1&station=9",
+    "type": "Percent for Art",
+    "station": "North White Plains Parking Garage",
+    "title": "Percolate, 2015"
+  },
+  {
+    "name": "Owen Smith",
+    "link": "http://web.mta.info/mta/aft/permanentart/permart.html?agency=nyct&line=R&artist=1&station=24",
+    "type": "Percent for Art",
+    "station": "36th Street",
+    "title": "An Underground Movement: Designers, Builders, Riders, 1998",
+    "lont": -74.00354899956925,
+    "lat": 40.655143999751665
+  },
+  {
+    "name": "Shinique Smith",
+    "link": "http://web.mta.info/mta/aft/permanentart/permart.html?agency=c&line=1&artist=1&station=2",
+    "type": "Percent for Art",
+    "station": "Mother Clara Hale Bus Depot",
+    "title": "Mother Hale’s Garden, 2013"
+  },
+  {
+    "name": "Vincent Smith",
+    "link": "http://web.mta.info/mta/aft/permanentart/permart.html?agency=nyct&line=3&artist=1&station=4",
+    "type": "Percent for Art",
+    "station": "116th Street",
+    "title": "Minton's Playhouse (uptown), The Movers and Shakers (downtown), 1999",
+    "lont": -73.94962500105149,
+    "lat": 40.80209833254597
+  },
+  {
+    "name": "Ben Snead",
+    "link": "http://web.mta.info/mta/aft/permanentart/permart.html?agency=nyct&line=A&artist=1&station=12",
+    "type": "Percent for Art",
+    "station": "Jay Street-Metro Tech",
+    "title": "Departures and Arrivals, 2009",
+    "lont": -73.98721815311183,
+    "lat": 40.69247097044472
+  },
+  {
+    "name": "Timothy Snell",
+    "link": "http://web.mta.info/mta/aft/permanentart/permart.html?agency=nyct&line=R&artist=1&station=13",
+    "type": "Percent for Art",
+    "station": "8th Street-NYU",
+    "title": "Broadway Diary, 2002",
+    "lont": -73.9925079989093,
+    "lat": 40.730465331990395
+  },
+  {
+    "name": "Tova Snyder",
+    "link": "http://web.mta.info/mta/aft/permanentart/permart.html?agency=mnr&line=newhavenline&artist=1&station=5",
+    "type": "Percent for Art",
+    "station": "Harrison",
+    "title": "Railroads and Rooftops, 2002"
+  },
+  {
+    "name": " SOL'SAX",
+    "link": "http://web.mta.info/mta/aft/permanentart/permart.html?agency=nyct&line=J&artist=1&station=10",
+    "type": "Percent for Art",
+    "station": "Halsey Street",
+    "title": "SOL'SCRYPT, 2008",
+    "lont": -73.91663888395097,
+    "lat": 40.68641560444364
+  },
+  {
+    "name": "Alan Sonfist",
+    "link": "http://web.mta.info/mta/aft/permanentart/permart.html?agency=lirr&line=babylonbranch&artist=1&station=3",
+    "type": "Percent for Art",
+    "station": "Merrick",
+    "title": "The Narrative History of Merrick, 1993"
+  },
+  {
+    "name": "Xin Song",
+    "link": "http://web.mta.info/mta/aft/permanentart/permart.html?agency=nyct&line=D&artist=1&station=16",
+    "type": "Percent for Art",
+    "station": "Bay Parkway",
+    "title": "Tree Of Life, 2012"
+  },
+  {
+    "name": "Nancy Spero",
+    "link": "http://web.mta.info/mta/aft/permanentart/permart.html?agency=nyct&line=1&artist=1&station=9",
+    "type": "Percent for Art",
+    "station": "66th Street-Lincoln Center",
+    "title": "Artemis, Acrobats, Divas and Dancers, 2001",
+    "lont": -73.98220900041213,
+    "lat": 40.773440334231445
+  },
+  {
+    "name": "Christopher Sproat",
+    "link": "http://web.mta.info/mta/aft/permanentart/permart.html?agency=nyct&line=P&artist=3&station=1",
+    "type": "Percent for Art",
+    "station": "Grand Central-42nd Street",
+    "title": "V-Beam, 2000"
+  },
+  {
+    "name": "Doug & Mike Starn",
+    "link": "http://web.mta.info/mta/aft/permanentart/permart.html?agency=nyct&line=1&artist=1&station=19",
+    "type": "Percent for Art",
+    "station": "South Ferry",
+    "title": "See it split, see it change, 2008",
+    "lont": -74.01316895983936,
+    "lat": 40.70173084095291
+  },
+  {
+    "name": "Susanna Starr",
+    "link": "http://web.mta.info/mta/aft/permanentart/permart.html?agency=nyct&line=D&artist=1&station=13",
+    "type": "Percent for Art",
+    "station": "79th Street",
+    "title": "A Continuous Thread, 2012",
+    "lont": -74.000582873947,
+    "lat": 40.613159259344464
+  },
+  {
+    "name": "Carol Sun",
+    "link": "http://web.mta.info/mta/aft/permanentart/permart.html?agency=nyct&line=4&artist=1&station=11",
+    "type": "Percent for Art",
+    "station": "167th Street",
+    "title": "A Bronx Reflection, 2007",
+    "lont": -73.92139999756648,
+    "lat": 40.83553733302143
+  },
+  {
+    "name": "Sarah Sze",
+    "link": "http://web.mta.info/mta/aft/permanentart/permart.html?agency=nyct&line=Q&artist=1&station=1",
+    "type": "Percent for Art",
+    "station": "Second Avenue–96th Street",
+    "title": "Blueprint for a Landscape, 2017"
+  },
+  {
+    "name": "Robert Taplin",
+    "link": "http://web.mta.info/mta/aft/permanentart/permart.html?agency=mnr&line=hudsonline&artist=1&station=10",
+    "type": "Percent for Art",
+    "station": "Cortlandt",
+    "title": "Three Statues (A Short History of the Lower Hudson Valley), 1996"
+  },
+  {
+    "name": "Soonae Tark",
+    "link": "http://web.mta.info/mta/aft/permanentart/permart.html?agency=nyct&line=6&artist=1&station=1",
+    "type": "Percent for Art",
+    "station": "Buhre Avenue",
+    "title": "Have a Happy Day, 2015",
+    "lont": -73.83256899924748,
+    "lat": 40.846810332614844
+  },
+  {
+    "name": "Pablo Tauler",
+    "link": "http://web.mta.info/mta/aft/permanentart/permart.html?agency=nyct&line=G&artist=1&station=6",
+    "type": "Percent for Art",
+    "station": "Woodhaven Boulevard",
+    "title": "In Memory of the Lost Battalion, 1996"
+  },
+  {
+    "name": "Joy Taylor",
+    "link": "http://web.mta.info/mta/aft/permanentart/permart.html?agency=mnr&line=hudsonline&artist=1&station=11",
+    "type": "Percent for Art",
+    "station": "Peekskill",
+    "title": "Jan Peeck’s Vine, 2012"
+  },
+  {
+    "name": "Joy Taylor",
+    "link": "http://web.mta.info/mta/aft/permanentart/permart.html?agency=mnr&line=newhavenline&artist=1&station=3",
+    "type": "Percent for Art",
+    "station": "Larchmont",
+    "title": "The Four Seasons, 2005"
+  },
+  {
+    "name": "Mary Temple",
+    "link": "http://web.mta.info/mta/aft/permanentart/permart.html?agency=nyct&line=Q&artist=1&station=22",
+    "type": "Percent for Art",
+    "station": "Neck Road",
+    "title": "West Wall, East Light, Morning, 2011",
+    "lont": -73.95507827446252,
+    "lat": 40.59532202457638
+  },
+  {
+    "name": "Anita Thacher",
+    "link": "http://web.mta.info/mta/aft/permanentart/permart.html?agency=lirr&line=ronkonkomabranch&artist=1&station=8",
+    "type": "Percent for Art",
+    "station": "Greenport",
+    "title": "Illuminated Station, 2005"
+  },
+  {
+    "name": "Mickalene Thomas",
+    "link": "http://web.mta.info/mta/aft/permanentart/permart.html?agency=nyct&line=R&artist=1&station=25",
+    "type": "Percent for Art",
+    "station": "53rd Street",
+    "title": "Untitled, 2017",
+    "lont": -74.01403400049048,
+    "lat": 40.645069000509004
+  },
+  {
+    "name": "George Trakas",
+    "link": "http://web.mta.info/mta/aft/permanentart/permart.html?agency=nyct&line=R&artist=1&station=21",
+    "type": "Percent for Art",
+    "station": "Atlantic Avenue-Pacific Street",
+    "title": "Hook (Archean Reach), Line (Sea House), and Sinker (Mined Swell), 2004",
+    "lont": -73.9788099993486,
+    "lat": 40.68366600047985
+  },
+  {
+    "name": "Marina Tsersarskaya",
+    "link": "http://web.mta.info/mta/aft/permanentart/permart.html?agency=nyct&line=5&artist=1&station=17",
+    "type": "Percent for Art",
+    "station": "Prospect Avenue",
+    "title": "Bronx. Four Seasons., 2008",
+    "lont": -73.9017777862438,
+    "lat": 40.81948759780675
+  },
+  {
+    "name": "Nitza Tufino",
+    "link": "http://web.mta.info/mta/aft/permanentart/permart.html?agency=nyct&line=1&artist=1&station=7",
+    "type": "Percent for Art",
+    "station": "86th Street",
+    "title": "Westside Views, 1989",
+    "lont": -73.97621799811347,
+    "lat": 40.78864433404891
+  },
+  {
+    "name": "Nitza Tufino",
+    "link": "http://web.mta.info/mta/aft/permanentart/permart.html?agency=nyct&line=6&artist=1&station=14",
+    "type": "Percent for Art",
+    "station": "103rd Street",
+    "title": "Neo-Boriken, 1990",
+    "lont": -73.94747800151542,
+    "lat": 40.790600332975615
+  },
+  {
+    "name": "Eugenie Tung",
+    "link": "http://web.mta.info/mta/aft/permanentart/permart.html?agency=nyct&line=L&artist=1&station=2",
+    "type": "Percent for Art",
+    "station": "New Lots Avenue",
+    "title": "16 Windows, 2007",
+    "lont": -73.89927796012282,
+    "lat": 40.65891510689037
+  },
+  {
+    "name": "Susan Tunick",
+    "link": "http://web.mta.info/mta/aft/permanentart/permart.html?agency=nyct&line=S&artist=1&station=4",
+    "type": "Percent for Art",
+    "station": "Prospect Park",
+    "title": "Brighton Clay Re-Leaf Nos. 1-4, 1994",
+    "lont": -73.96203130451713,
+    "lat": 40.66163378817137
+  },
+  {
+    "name": "Corinne Ulmann",
+    "link": "http://web.mta.info/mta/aft/permanentart/permart.html?agency=mnr&line=hudsonline&artist=1&station=9",
+    "type": "Percent for Art",
+    "station": "Croton-Harmon",
+    "title": "Croton-Harmon Station, 2016/2013"
+  },
+  {
+    "name": "Penelope Umbrico",
+    "link": "http://web.mta.info/mta/aft/lightbox/lightbox.html?station=3",
+    "type": "Lightbox",
+    "station": "Grand Central Terminal Dining Concourse East",
+    "title": "Four Photographs of Rays of Sunlight in Grand Central"
+  },
+  {
+    "name": "Anton van Dalen",
+    "link": "http://web.mta.info/mta/aft/permanentart/permart.html?agency=nyct&line=5&artist=1&station=29",
+    "type": "Percent for Art",
+    "station": "Nevins Street",
+    "title": "Work & Nature, 1997",
+    "lont": -73.98040679867199,
+    "lat": 40.68831091310594
+  },
+  {
+    "name": "Manuel Vega",
+    "link": "http://web.mta.info/mta/aft/permanentart/permart.html?agency=nyct&line=6&artist=1&station=13",
+    "type": "Percent for Art",
+    "station": "110th Street",
+    "title": "Sábado en la Ciento Diez (Saturday on 110th Street), 1996",
+    "lont": -73.94424999696717,
+    "lat": 40.79502033352402
+  },
+  {
+    "name": "Leo Villareal",
+    "link": "http://web.mta.info/mta/aft/permanentart/permart.html?agency=nyct&line=6&artist=1&station=26",
+    "type": "Percent for Art",
+    "station": "Bleecker Street/Lafayette Street",
+    "title": "Hive (Bleecker Street), 2012"
+  },
+  {
+    "name": "Leslie Wayne",
+    "link": "http://web.mta.info/mta/aft/permanentart/permart.html?agency=nyct&line=F&artist=1&station=13",
+    "type": "Percent for Art",
+    "station": "Bay Parkway",
+    "title": "Neptune’s Garden, 2018"
+  },
+  {
+    "name": "William Wegman",
+    "link": "http://web.mta.info/mta/aft/permanentart/permart.html?agency=nyct&line=F&artist=1&station=5",
+    "type": "Percent for Art",
+    "station": "23rd Street",
+    "title": "Stationary Figures, 2018",
+    "lont": -73.99276500454658,
+    "lat": 40.74295465088764
+  },
+  {
+    "name": "Stephen Westfall",
+    "link": "http://web.mta.info/mta/aft/permanentart/permart.html?agency=nyct&line=N&artist=1&station=1",
+    "type": "Percent for Art",
+    "station": "30th Avenue",
+    "title": "Perasma I & II; Dappleganger, 2018",
+    "lont": -73.92147900005995,
+    "lat": 40.76677899973269
+  },
+  {
+    "name": "Allan and Ellen Wexler",
+    "link": "http://web.mta.info/mta/aft/permanentart/permart.html?agency=lirr&line=portjeffersonbranch&artist=1&station=1",
+    "type": "Percent for Art",
+    "station": "Atlantic Terminal",
+    "title": "Overlook, 2009"
+  },
+  {
+    "name": "Jean Whitesavage and Nick Lyle",
+    "link": "http://web.mta.info/mta/aft/permanentart/permart.html?agency=nyct&line=6&artist=1&station=9",
+    "type": "Percent for Art",
+    "station": "Elder Avenue",
+    "title": "Bronx Trees, 2011",
+    "lont": -73.87915899781727,
+    "lat": 40.82858433457284
+  },
+  {
+    "name": "Emmett Wigglesworth",
+    "link": "http://web.mta.info/mta/aft/permanentart/permart.html?agency=nyct&line=R&artist=1&station=22",
+    "type": "Percent for Art",
+    "station": "Union Street",
+    "title": "CommUnion, 1994",
+    "lont": -73.98310999931782,
+    "lat": 40.67731600045995
+  },
+  {
+    "name": "Michael Kelly Williams",
+    "link": "http://web.mta.info/mta/aft/permanentart/permart.html?agency=nyct&line=5&artist=1&station=16",
+    "type": "Percent for Art",
+    "station": "Intervale Avenue",
+    "title": "El 2 and El 5, 1992",
+    "lont": -73.8966173835841,
+    "lat": 40.82214246442492
+  },
+  {
+    "name": "Philemona Williamson",
+    "link": "http://web.mta.info/mta/aft/permanentart/permart.html?agency=nyct&line=L&artist=1&station=3",
+    "type": "Percent for Art",
+    "station": "Livonia Avenue",
+    "title": "Seasons, 2007",
+    "lont": -73.90056237156317,
+    "lat": 40.664057604182275
+  },
+  {
+    "name": "David Wilson",
+    "link": "http://web.mta.info/mta/aft/permanentart/permart.html?agency=nyct&line=Q&artist=1&station=16",
+    "type": "Percent for Art",
+    "station": "Newkirk Avenue",
+    "title": "Transit Skylight, 1988",
+    "lont": -73.96269486847974,
+    "lat": 40.63514227039474
+  },
+  {
+    "name": "Robert Wilson",
+    "link": "http://web.mta.info/mta/aft/permanentart/permart.html?agency=nyct&line=Q&artist=1&station=27",
+    "type": "Percent for Art",
+    "station": "Coney Island-Stillwell Avenue",
+    "title": "My Coney Island Baby, 2004",
+    "lont": -73.98123599855974,
+    "lat": 40.57728133344397
+  },
+  {
+    "name": "Steve Wood",
+    "link": "http://web.mta.info/mta/aft/permanentart/permart.html?agency=nyct&line=1&artist=1&station=4",
+    "type": "Percent for Art",
+    "station": "137th Street-City College",
+    "title": "Fossils, 1988",
+    "lont": -73.95367600034153,
+    "lat": 40.82200833264513
+  },
+  {
+    "name": "Saya Woolfalk",
+    "link": "http://web.mta.info/mta/aft/permanentart/permart.html?agency=nyct&line=3&artist=1&station=26",
+    "type": "Percent for Art",
+    "station": "Pennsylvania Avenue",
+    "title": "Urban Garden Rail, 2017",
+    "lont": -73.89488591124234,
+    "lat": 40.66471478435396
+  },
+  {
+    "name": "Christopher Wynter",
+    "link": "http://web.mta.info/mta/aft/permanentart/permart.html?agency=nyct&line=C&artist=1&station=2",
+    "type": "Percent for Art",
+    "station": "Cathedral Parkway (110th Street)",
+    "title": "Migration, 1999 and 2018",
+    "lont": -73.95806670664349,
+    "lat": 40.80058189158562
+  },
+  {
+    "name": "Nina Yankowitz",
+    "link": "http://web.mta.info/mta/aft/permanentart/permart.html?agency=nyct&line=E&artist=1&station=6",
+    "type": "Percent for Art",
+    "station": "51st Street/Lexington Avenue-53rd Street",
+    "title": "Tunnel Vision, 1988",
+    "lont": -73.96907237417739,
+    "lat": 40.75746864157252
+  },
+  {
+    "name": "Dan Zeller",
+    "link": "http://web.mta.info/mta/aft/permanentart/permart.html?agency=nyct&line=D&artist=1&station=18",
+    "type": "Percent for Art",
+    "station": "Bay 50th Street",
+    "title": "Internal Connectivity, 2012",
+    "lont": -73.98376500025735,
+    "lat": 40.588840999864985
+  },
+  {
+    "name": "Joe Zucker",
+    "link": "http://web.mta.info/mta/aft/permanentart/permart.html?agency=lirr&line=portjeffersonbranch&artist=1&station=3",
+    "type": "Percent for Art",
+    "station": "Huntington",
+    "title": "For My Grandfather Noye Pride, a Locomotive Engineer, 1998"
+  },
+  {
+    "name": "Janet Zweig and Edward del Rosario",
+    "link": "http://web.mta.info/mta/aft/permanentart/permart.html?agency=nyct&line=R&artist=1&station=14",
+    "type": "Percent for Art",
+    "station": "Prince Street",
+    "title": "Carrying On, 2004",
+    "lont": -73.99770200007194,
+    "lat": 40.72432899922576
+  }
+]
