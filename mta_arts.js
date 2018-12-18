@@ -2652,10 +2652,10 @@ for (var key in data) {
     
     var arts = data[key]
     var popout = ''
-    var itemTemplate = '<b>{0}</b></br>{1}</br><a href="{2}">detail</a></br>'
+    var itemTemplate = '<b>{0}</b></br></br><b>{1}</b></br>{2}</br><a href="{3}">detail</a></br>'
     for (var i = 0,len=arts.length; i < len; i++) {
         var art = arts[i]
-        popout += itemTemplate.format(art['title'], art['name'], art['link']);
+        popout += itemTemplate.format(art['station'], art['title'], art['name'], art['link']);
     }
     L.marker([parts[0], parts[1]], {icon: redIcon}).addTo(map).bindPopup(popout)
 }
