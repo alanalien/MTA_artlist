@@ -2652,7 +2652,7 @@ for (var key in data) {
     
     var arts = data[key]
     var popout = ''
-    var itemTemplate = '<b>{0}</b></br></br><b>{1}</b></br>{2}</br><a href="{3}">detail</a></br></br></br>'
+    var itemTemplate = '<b>{0}</b></br></br><b>{1}</b></br>{2}</br><a href="{3}">detail</a></br><b>————————</b>'
     for (var i = 0,len=arts.length; i < len; i++) {
         var art = arts[i]
         popout += itemTemplate.format(art['station'], art['title'], art['name'], art['link']);
