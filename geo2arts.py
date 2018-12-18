@@ -5,6 +5,7 @@ artists = json.load(open('artist_geoinfo_manipulate.json'))
 # 列表解析：only use the items with geo info
 artists = [t for t in artists if "lont" in t]
 
+# lont - lat change place
 addgeo2arts = {}
 for art in artists:
     key = "{}|{}".format(art['lont'], art['lat'])
